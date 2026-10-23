@@ -1,0 +1,8 @@
+# Connection profile. dbt reads it from the project folder first.
+pachadata_training:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: pachadata.duckdb
+      threads: 4

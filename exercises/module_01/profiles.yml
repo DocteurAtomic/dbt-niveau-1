@@ -1,0 +1,9 @@
+# A broken connection profile, for the module 1 exercise.
+# Copy it over the profiles.yml of the project, then make dbt work again.
+pachadata-training:
+  target: production
+  outputs:
+    dev:
+      type: duckdb
+      path: pachadata_dev.duckdb
+      threads: 4

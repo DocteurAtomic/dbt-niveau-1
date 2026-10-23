@@ -1,0 +1,3 @@
+# Add these two tables under the raw source in models/staging/_sources.yml.
+      - name: contacts
+      - name: companies

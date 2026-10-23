@@ -5,3 +5,5 @@ sources:
     tables:
       - name: courses
       - name: course_sessions
+      - name: enrollments
+      - name: invoice_lines

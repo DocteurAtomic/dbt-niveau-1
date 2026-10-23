@@ -12,3 +12,12 @@ analysis-paths: ["analyses"]
 vars:
   # Folder holding the two deliveries of the source system, relative to the project.
   data_dir: data
+
+models:
+  pachadata_training:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: ephemeral
+    marts:
+      +materialized: table

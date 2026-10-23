@@ -1,0 +1,11 @@
+# Add this model under models: in models/marts/_marts.yml, after fct_enrollments_by_language.
+  - name: fct_yearly_payments_by_method
+    description: >
+      One row per year of payment, with the amount received excluding tax for each
+      payment method.
+    columns:
+      - name: payment_year
+        description: Year the payments were received.
+        data_tests:
+          - unique
+          - not_null

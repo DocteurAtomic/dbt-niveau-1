@@ -71,8 +71,8 @@ of the data:
 
 ## Open the pull request
 
-Commit your work, push the branch to your fork, and open a pull request. GitHub proposes
-the original repository as the base: choose your fork and its `main` branch instead. The
+Commit your work, push the branch to your fork, and open a pull request. Check the base
+repository: it must be your fork and its `main` branch, not `DocteurAtomic/dbt-niveau-1`. The
 `check` workflow builds the project on the pull request.
 
 The project is done when:

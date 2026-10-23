@@ -1,0 +1,29 @@
+# Add this model under models: in models/marts/_marts.yml, after fct_sessions.
+  - name: fct_payments
+    description: >
+      One row per payment received, with the session and the company of the invoice it
+      pays. Incremental: each run adds the payments received after the last one in the
+      table.
+    columns:
+      - name: payment_id
+        description: Identifier of the payment in the back office.
+        data_tests:
+          - unique
+          - not_null
+      - name: invoice_id
+        description: Invoice the payment settles.
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_invoices')
+                field: invoice_id
+      - name: payment_date
+        description: Date the payment was received. The incremental filter reads it.
+      - name: amount
+        description: Amount received, including tax.
+      - name: payment_method_code
+        description: How the client paid.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [TRANSFER, CHECK, CARD, DIRECT_DEBIT]

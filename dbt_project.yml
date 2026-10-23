@@ -12,6 +12,8 @@ analysis-paths: ["analyses"]
 vars:
   # Folder holding the two deliveries of the source system, relative to the project.
   data_dir: data
+  # Date of the delivery the project reads: a session that ends before it is finished.
+  reference_date: "2026-06-30"
 
 models:
   pachadata_training:

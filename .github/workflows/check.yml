@@ -1,4 +1,5 @@
-# Builds the project on every push and every tag, so that each course state stays buildable.
+# Builds the project on every push to main, on every tag and on every pull request,
+# so that each course state stays buildable and a change is tested before it is merged.
 name: check
 
 on:
@@ -15,8 +16,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install dbt-oss==2.0.8
+      - name: Install dbt-oss
+        run: pip install dbt-oss==2.0.8
       - run: dbt --version
+      - name: Install packages
+        run: dbt deps
       # Quoted as a whole: an unquoted ": " inside a run line breaks the YAML.
-      - run: "dbt run-operation load_raw --args '{batch: batch_1}'"
-      - run: dbt build
+      - name: Load the first delivery
+        run: "dbt run-operation load_raw --args '{batch: batch_1}'"
+      - name: Build and test
+        run: dbt build

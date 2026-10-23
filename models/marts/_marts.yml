@@ -19,6 +19,8 @@ models:
               config:
                 where: "training_revenue > 0"
                 severity: warn
+      - name: is_finished
+        description: True when the session ended before the reference_date variable.
       - name: enrollment_count
         description: Enrollments in the session, cancelled ones included.
       - name: cancellation_count
@@ -29,3 +31,16 @@ models:
         description: '{{ doc("fill_rate") }}'
       - name: training_revenue
         description: '{{ doc("training_revenue") }}'
+      - name: training_revenue_incl_tax
+        description: The training revenue including tax, at the VAT rate of each invoice.
+
+  - name: fct_enrollments_by_language
+    description: >
+      One row per year of session start, with one column of enrollments per language
+      of the sessions. Cancelled enrollments are counted.
+    columns:
+      - name: start_year
+        description: Year the sessions start.
+        data_tests:
+          - unique
+          - not_null

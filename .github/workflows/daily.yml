@@ -1,0 +1,29 @@
+# Rebuilds the project every morning, and on demand from the Actions tab.
+# In this course repository the deliveries never change: the job rebuilds the same data.
+# In production, the load step is the work of the extract and load tool, and the prod
+# target points to a shared warehouse instead of a file deleted at the end of the job.
+name: daily
+
+on:
+  schedule:
+    # Every day at 05:30 UTC. Not on the hour, when GitHub is the busiest.
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dbt-oss
+        run: pip install dbt-oss==2.0.8
+      - name: Install packages
+        run: dbt deps
+      - name: Load the first delivery
+        run: |
+          dbt run-operation load_raw --args '{batch: batch_1}' --target prod
+      - name: Build and test
+        run: dbt build --target prod

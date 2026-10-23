@@ -2,7 +2,13 @@
 pachadata_training:
   target: dev
   outputs:
+    # Day-to-day work on your machine.
     dev:
       type: duckdb
       path: pachadata.duckdb
+      threads: 4
+    # The shared database that reports read. Built with --target prod.
+    prod:
+      type: duckdb
+      path: pachadata_prod.duckdb
       threads: 4

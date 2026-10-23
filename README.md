@@ -34,6 +34,10 @@ La première commande charge la première livraison des données dans le schéma
 fichier `pachadata.duckdb`. La seconde construit et teste le projet. Les données sont
 décrites dans [`data/README.md`](data/README.md).
 
+## Licence
+
+Le code et les données, entièrement fictives, sont sous licence MIT ([`LICENSE`](LICENSE)).
+
 ---
 
 # dbt, level 1
@@ -42,3 +46,5 @@ Code and data of the Docteur Atomic online course "dbt, level 1". Each module st
 ends on a Git tag (`module-02-start`, `module-02-end`). Install `dbt-oss` with
 `uv tool install dbt-oss`, then run `dbt run-operation load_raw --args '{batch: batch_1}'`
 and `dbt build`.
+
+Code and data, which are entirely fictional, are released under the MIT license.

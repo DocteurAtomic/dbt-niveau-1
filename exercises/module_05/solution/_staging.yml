@@ -1,0 +1,14 @@
+# Add this model under models: in models/staging/_staging.yml.
+  - name: stg_evaluations
+    columns:
+      - name: evaluation_id
+        data_tests:
+          - unique
+          - not_null
+      - name: enrollment_id
+        data_tests:
+          - unique
+          - relationships:
+              arguments:
+                to: ref('stg_enrollments')
+                field: enrollment_id

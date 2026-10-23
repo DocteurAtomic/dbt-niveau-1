@@ -1,0 +1,18 @@
+# Replaces models/staging/_sources.yml: the evaluations table is added at the end.
+sources:
+  - name: raw
+    description: Tables of the Pachadata Training back office, loaded by the load_raw macro.
+    schema: raw
+    config:
+      loaded_at_field: _loaded_at
+      freshness:
+        warn_after: {count: 1, period: day}
+        error_after: {count: 7, period: day}
+    tables:
+      - name: courses
+      - name: course_sessions
+      - name: enrollments
+      - name: invoices
+      - name: invoice_lines
+      - name: payments
+      - name: evaluations

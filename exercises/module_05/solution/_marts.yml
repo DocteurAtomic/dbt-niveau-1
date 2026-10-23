@@ -1,0 +1,31 @@
+# Add this model under models: in models/marts/_marts.yml.
+  - name: fct_course_satisfaction
+    description: >
+      One row per course of the catalog, with the evaluations its trainees gave at the
+      end of the completed sessions, the response rate and the average rating.
+    columns:
+      - name: course_id
+        description: Identifier of the course in the back office. One row per course.
+        data_tests:
+          - unique
+          - not_null
+      - name: completed_session_count
+        description: Sessions of the course with the status COMPLETED.
+      - name: attendee_count
+        description: Trainees marked as present in the completed sessions.
+      - name: evaluation_count
+        description: Evaluations received for the completed sessions.
+      - name: response_rate
+        description: >
+          Evaluations divided by attendees, rounded to two decimals. Null when the course
+          has no attendee.
+        data_tests:
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 1
+      - name: avg_rating
+        description: >
+          Average of the ratings, from 1 to 5, each evaluation weighing the same, rounded
+          to two decimals. Null when the course has no evaluation; read it with
+          evaluation_count, an average of four evaluations says little.

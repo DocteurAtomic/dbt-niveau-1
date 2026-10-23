@@ -1,4 +1,6 @@
-select
+-- Three enrollments are extracted twice, as identical rows (data/README.md).
+-- distinct removes them; if two rows ever differ, the unique test still fails.
+select distinct
     enrollment_id,
     session_id,
     contact_id,

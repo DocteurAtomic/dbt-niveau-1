@@ -1,0 +1,12 @@
+# History of the status of each session (slowly changing dimension, type 2).
+# Strategy check on status: updated_at is not reliable in the back office, a session
+# can change status without it moving. check_cols: all would also compare _loaded_at,
+# which changes at every load.
+snapshots:
+  - name: snap_course_sessions
+    description: One row per status a session went through, with its validity period.
+    relation: source('raw', 'course_sessions')
+    config:
+      unique_key: session_id
+      strategy: check
+      check_cols: [status]

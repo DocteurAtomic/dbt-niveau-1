@@ -21,3 +21,8 @@ models:
       +materialized: ephemeral
     marts:
       +materialized: table
+
+data_tests:
+  pachadata_training:
+    # Keep the failing rows of every test in the main_dbt_test__audit schema.
+    +store_failures: true

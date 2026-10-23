@@ -1,0 +1,31 @@
+models:
+  - name: fct_sessions
+    description: >
+      One row per scheduled session of a course, with its enrollments, its attendance,
+      its fill rate and the training revenue invoiced for it.
+    columns:
+      - name: session_id
+        description: Identifier of the session in the back office. One row per session.
+        data_tests:
+          - unique
+          - not_null
+      - name: status
+        description: Status of the session in the back office (PLANNED, OPEN, CONFIRMED, COMPLETED, CANCELLED).
+        data_tests:
+          - accepted_values:
+              name: invoiced_sessions_are_not_cancelled
+              arguments:
+                values: [PLANNED, OPEN, CONFIRMED, COMPLETED]
+              config:
+                where: "training_revenue > 0"
+                severity: warn
+      - name: enrollment_count
+        description: Enrollments in the session, cancelled ones included.
+      - name: cancellation_count
+        description: Cancelled enrollments.
+      - name: attendee_count
+        description: Trainees marked as present.
+      - name: fill_rate
+        description: '{{ doc("fill_rate") }}'
+      - name: training_revenue
+        description: '{{ doc("training_revenue") }}'

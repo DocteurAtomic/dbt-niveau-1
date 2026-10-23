@@ -35,7 +35,7 @@ The extract has defects on purpose, for the tests of module 3 to find. Do not fi
 the files: fix them, or flag them, in the dbt project.
 
 - Three enrollments are extracted twice (same row, twice).
-- Two enrollments point to a session that does not exist.
+- In `batch_2`, two enrollments point to a session that does not exist.
 - One invoice has no lines.
 - In `batch_2`, one session has the status `POSTPONED`, which the back office does not
   define.

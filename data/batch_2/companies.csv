@@ -1,0 +1,1426 @@
+company_id,company_name,country_code,industry,created_at,email_domain
+3,Brauerei Kannengieser,CHE,Food industry,1975-10-20,brauerei-kannengieser.example
+4,AHS Warranty,USA,Public administration,1998-01-01,ahswarranty.example
+6,Courtage Picardie SAS,FRA,Insurance,1994-08-29,courtage-picardie.example
+7,Hôtels Chartreuse,FRA,Tourism,1987-01-17,hotels-chartreuse.example
+10,Main Treuhand GmbH,DEU,Banking,2014-10-22,main-treuhand.example
+11,Express Lukashev SA,CHE,Transport and logistics,2015-01-01,express-lukashev.example
+12,Affrètement Estérel SAS,FRA,Transport and logistics,2013-05-29,affretement-esterel.example
+13,Groupe Gaz Dalmayrac,FRA,Energy,1980-06-08,groupe-gaz-dalmayrac.example
+15,Kommunikation von Sinner AG,CHE,Telecommunications,1980-12-25,kommunikation-von-sinner.example
+16,Électricité Gillion,FRA,Energy,2000-07-20,electricite-gillion.example
+17,Groupe Automobiles Lot,FRA,Automotive,1960-08-30,groupe-automobiles-lot.example
+19,Centre de formation Cévennes,FRA,Education,1988-01-09,centre-formation-cevennes.example
+20,Systèmes d'information Ruant SARL,FRA,IT services,2007-04-15,systemes-information-ruant.example
+21,Radio Vosges SAS,FRA,Media,2010-04-22,radio-vosges.example
+22,Immobilien Dietrich GmbH,DEU,Real estate,1996-11-20,immobilien-dietrich.example
+25,Lagerhaus Gantulga GmbH,CHE,Transport and logistics,2004-05-25,lagerhaus-gantulga.example
+26,Siby Cloud SA,FRA,Software publishing,2007-03-19,siby-cloud.example
+27,Mairie de Armor,FRA,Local government,1968-11-16,ville-armor.example
+28,Distribution Albukai SA,CHE,Retail,1973-07-15,distribution-albukai.example
+29,Hypermarchés Grevenmacher Sàrl,LUX,Retail,2010-09-03,hypermarches-grevenmacher.example
+30,Radiologie Cévennes SARL,FRA,Healthcare,2005-06-12,radiologie-cevennes.example
+31,Guyton Équipements SARL,FRA,Manufacturing,1993-09-18,guyton-equipements.example
+32,Ville de Bretagne,FRA,Local government,1965-10-08,ville-bretagne.example
+33,Vassor & Dijon SA,FRA,Automotive,1954-12-27,vassor-dijon.example
+34,Brasserie Thurgau SA,CHE,Food industry,1959-03-01,brasserie-thurgau.example
+35,Crédit Vandenberghe,BEL,Banking,1978-01-12,credit-vandenberghe.example
+36,Yorkshire Stores plc,GBR,Retail,1997-04-14,yorkshire-stores.co.example
+37,Ring Coopérative agricole SAS,FRA,Food industry,1962-07-01,ring-cooperative-agricole.example
+39,Meerschout Caisse EURL,FRA,Banking,1971-07-13,meerschout-caisse.example
+41,Tranchant & Lissy SAS,FRA,Banking,2014-02-15,tranchant-lissy.example
+43,Schulze Märkte AG,DEU,Retail,1980-07-27,schulze-markte.example
+45,Distribution Simon SA,FRA,Retail,1970-06-16,distribution-simon.example
+46,Groupe Romero & Hatzenberger,FRA,Automotive,1955-11-24,groupe-romero-hatzenberger.example
+47,Pol Hypermarchés,FRA,Retail,1977-07-13,pol-hypermarches.example
+48,Comptoir Krug,FRA,Retail,1966-08-25,comptoir-krug.example
+49,Groupe Finance Corbières,FRA,Banking,1989-02-13,groupe-finance-corbieres.example
+50,Stadt Winterthur,CHE,Local government,2014-06-19,stadt-winterthur.example
+51,Groupe Infogérance Lorraine,FRA,IT services,1994-08-11,groupe-infogerance-lorraine.example
+52,Biosciences Rose SARL,FRA,Pharmaceuticals,2017-05-22,biosciences-rose.example
+55,Courrousse Patrimoine EURL,FRA,Banking,1960-11-02,courrousse-patrimoine.example
+56,Busco & Alukic AG,CHE,Education,2004-05-27,busco-alukic.example
+57,Terrassement Chadaigne SARL,FRA,Construction,2000-11-07,terrassement-chadaigne.example
+58,Commune de Matterhorn,CHE,Local government,1976-02-19,commune-matterhorn.example
+59,Coopérative agricole Dauphiné,FRA,Food industry,1998-08-08,cooperative-agricole-dauphine.example
+61,Logistique Mayer SA,LUX,Transport and logistics,1988-04-07,logistique-mayer.example
+64,Vins Marechal SCOP,FRA,Food industry,2004-07-15,vins-marechal.example
+66,Karaoglu & Lavergne AG,CHE,Media,1953-01-27,karaoglu-lavergne.example
+68,Duval Banque,FRA,Banking,2006-02-16,duval-banque.example
+69,Assicurazioni Di Stefano S.r.l.,ITA,Insurance,2018-09-08,assicurazioni-stefano.example
+70,Équipements Belledonne,FRA,Manufacturing,1972-05-09,equipements-belledonne.example
+71,Osselet Garantie SA,FRA,Insurance,1967-06-07,osselet-garantie.example
+72,Zeeland Automotive B.V.,NLD,Automotive,2010-02-16,zeeland-automotive.example
+74,Martin Métallurgie SAS,FRA,Manufacturing,1998-11-07,martin-metallurgie.example
+76,Gilbert & Baills SA,FRA,Food industry,1999-05-04,gilbert-baills.example
+77,Vandroth & Besselievre,FRA,Transport and logistics,2005-01-10,vandroth-besselievre.example
+79,Campus Grelier SA,FRA,Education,1981-01-09,campus-grelier.example
+80,Banca Badajoz S.L.,ESP,Banking,1997-12-22,banca-badajoz.example
+82,Habitat Costa,FRA,Real estate,1962-01-19,habitat-costa.example
+83,Fischer Stromversorgung GmbH,DEU,Energy,1964-06-02,fischer-stromversorgung.example
+84,Affrètement Dassaud,FRA,Transport and logistics,2005-08-23,affretement-dassaud.example
+85,Santé Armor SA,FRA,Healthcare,1976-10-01,sante-armor.example
+87,Fibre Benassar SARL,FRA,Telecommunications,1979-12-15,fibre-benassar.example
+89,Mutualité Bretagne,FRA,Mutual insurance,1988-01-22,mutualite-bretagne.example
+91,Bilquez Fret SARL,FRA,Transport and logistics,2005-12-31,bilquez-fret.example
+92,Touristik Rieder,CHE,Tourism,2018-04-17,touristik-rieder.example
+94,Benhamouda Laboratoires SAS,FRA,Pharmaceuticals,1956-10-21,benhamouda-laboratoires.example
+95,Conseil Louison SARL,FRA,Consulting,1976-05-01,conseil-louison.example
+96,Pièces auto Nagel,FRA,Automotive,2012-12-29,pieces-auto-nagel.example
+97,Groupe Pharmaceutique Haas,FRA,Pharmaceuticals,1982-11-13,groupe-pharmaceutique-haas.example
+98,Médical Ardèche SA,FRA,Healthcare,1956-08-03,medical-ardeche.example
+99,Baugesellschaft Abazi AG,CHE,Construction,2007-12-06,baugesellschaft-abazi.example
+100,Office public de l'habitat Beaujolais,FRA,Public administration,1953-05-16,office-public-habitat.example
+101,Baldassini & Llorente,FRA,Energy,2008-08-01,baldassini-llorente.example
+102,Équipements Massamba SRL,BEL,Manufacturing,1958-04-04,equipements-massamba.example
+103,Micucci Polyclinique SAS,FRA,Healthcare,1955-09-12,micucci-polyclinique.example
+104,Assicurazioni Gallo S.p.A.,ITA,Insurance,1983-07-06,assicurazioni-gallo.example
+105,Jean Industries SARL,FRA,Manufacturing,2013-01-03,jean-industries.example
+106,Guihery Usinage SAS,FRA,Manufacturing,2014-05-17,guihery-usinage.example
+108,Aciers Charpentier SAS,FRA,Manufacturing,1989-05-28,aciers-charpentier.example
+109,Cornudet & Raith SARL,FRA,Transport and logistics,1964-04-06,cornudet-raith.example
+112,Numérique Cornouaille,FRA,Software publishing,2016-06-03,numerique-cornouaille.example
+113,Ville de Berry,FRA,Local government,1957-01-27,ville-berry.example
+116,Réseaux Couteller,FRA,Telecommunications,1984-10-09,reseaux-couteller.example
+121,Office public de l'habitat Savoie,FRA,Public administration,2000-07-15,office-public-habitat2.example
+122,Mobile Cotentin SAS,FRA,Telecommunications,2007-12-20,mobile-cotentin.example
+124,Conseil départemental de Beauce,FRA,Local government,1992-01-23,departement-beauce.example
+125,Tiefbau Bosello,CHE,Construction,2006-07-12,tiefbau-bosello.example
+126,Chrone Financement SARL,FRA,Banking,1968-01-21,chrone-financement.example
+127,Communauté d'agglomération de Vendée,FRA,Local government,1985-06-18,agglo-vendee.example
+128,Services numériques Neuchâtel,CHE,IT services,1994-09-06,services-numeriques-neuchatel.example
+130,Sandeau & Benzohra,FRA,Retail,2009-11-07,sandeau-benzohra.example
+131,Office Malines SA,BEL,Public administration,1996-05-21,office-malines.example
+132,Groupe Jautard & Tixeront,FRA,Insurance,1952-07-19,groupe-jautard-tixeront.example
+134,Fret Banuls SARL,FRA,Transport and logistics,1979-06-19,fret-banuls.example
+136,Conseil départemental de Chartreuse,FRA,Local government,2007-08-28,departement-chartreuse.example
+137,Cassan Thérapeutique,FRA,Pharmaceuticals,1961-12-08,cassan-therapeutique.example
+139,Di Maria Solaire EURL,FRA,Energy,1955-11-19,maria-solaire.example
+140,Agence régionale de santé Roussillon,FRA,Public administration,1988-08-06,agence-regionale-sante.example
+142,Hertzien Martin,FRA,Telecommunications,1951-06-21,hertzien-martin.example
+144,Ruand Fret SARL,FRA,Transport and logistics,1969-10-20,ruand-fret.example
+145,Boulangerie Ardennes,FRA,Food industry,1998-10-18,boulangerie-ardennes.example
+146,Feneyrol & Guadagni SA,FRA,Telecommunications,1964-08-22,feneyrol-guadagni.example
+147,Agence régionale de santé Oise,FRA,Public administration,1991-01-28,agence-regionale-sante2.example
+148,Finance Scherrer,CHE,Banking,1955-11-12,finance-scherrer.example
+150,Software Esposito S.r.l.,ITA,Software publishing,2018-01-21,software-esposito.example
+152,Ville de Alsace,FRA,Local government,1978-07-30,ville-alsace.example
+153,Groupe Sanglier Technologies,FRA,IT services,1976-12-28,groupe-sanglier-technologies.example
+154,Gestion locative Jolivet SARL,FRA,Real estate,1987-05-14,gestion-locative-jolivet.example
+158,Groupe Tourisme Périgord,FRA,Tourism,1956-11-24,groupe-tourisme-perigord.example
+159,Lhommede & Cartigny,FRA,Healthcare,2000-04-24,lhommede-cartigny.example
+160,Vins Pyrénées,FRA,Food industry,1960-02-29,vins-pyrenees.example
+161,Éolien Pipat EURL,FRA,Energy,1987-08-25,eolien-pipat.example
+163,Högger & Temetsang,CHE,Transport and logistics,1981-04-19,hogger-temetsang.example
+164,Soins Grisons SA,CHE,Healthcare,1967-05-19,soins-grisons.example
+165,Deschamps De Boishebert Informatique,FRA,IT services,1952-11-08,deschamps-boishebert-informatique.example
+166,Plastiques Strasbourg,FRA,Manufacturing,1990-10-07,plastiques-strasbourg.example
+167,Fibre Poulet,FRA,Telecommunications,1965-05-17,fibre-poulet.example
+168,Groupe Laboratoires Normandie,FRA,Pharmaceuticals,1959-11-29,groupe-laboratoires-normandie.example
+169,Amily Mutuelle,FRA,Mutual insurance,2009-07-09,amily-mutuelle.example
+170,Tosello Digital SARL,FRA,Software publishing,1996-09-21,tosello-digital.example
+171,Servizi Giuliani S.p.A.,ITA,Public administration,2012-10-05,servizi-giuliani.example
+172,Köln Kunststoff GmbH,DEU,Manufacturing,1956-10-18,koln-kunststoff.example
+173,Girard & Dupuis SARL,FRA,Automotive,1982-08-23,girard-dupuis.example
+174,Communauté d'agglomération de Cévennes,FRA,Local government,2001-05-03,agglo-cevennes.example
+175,Publicité Donny SAS,FRA,Media,2016-03-06,publicite-donny.example
+176,Logiciels Guizerix SARL,FRA,Software publishing,1974-06-16,logiciels-guizerix.example
+177,Communauté d'agglomération de Bourgogne,FRA,Local government,1995-09-19,agglo-bourgogne.example
+178,Office public de l'habitat Champagne,FRA,Public administration,1973-11-07,office-public-habitat3.example
+179,Viaggi Amato S.r.l.,ITA,Tourism,2001-04-18,viaggi-amato.example
+180,Commune de Engadine,CHE,Local government,1958-10-24,commune-engadine.example
+181,Debove Consultants SARL,FRA,Consulting,1951-11-04,debove-consultants.example
+182,Hoffmann Rückversicherung GmbH,DEU,Insurance,1977-10-21,hoffmann-ruckversicherung.example
+183,Morgand Équipements SAS,FRA,Manufacturing,1990-02-07,morgand-equipements.example
+185,Geissbühler & Stockmaier,CHE,Retail,2001-08-29,geissbuhler-stockmaier.example
+186,Hoffmann Solar GmbH,DEU,Energy,1965-12-30,hoffmann-solar.example
+188,Masquerel Lycée,FRA,Education,1977-03-01,masquerel-lycee.example
+190,Équipementier Velay,FRA,Automotive,1996-06-23,equipementier-velay.example
+192,Dasini & Sarremejane SA,FRA,Media,1994-11-11,dasini-sarremejane.example
+193,Betz Plastiques SARL,FRA,Manufacturing,1968-12-02,betz-plastiques.example
+195,Groupe Lycée Cévennes,FRA,Education,1955-06-23,groupe-lycee-cevennes.example
+196,Logiciels Breuil SA,FRA,Software publishing,1976-02-20,logiciels-breuil.example
+199,Guilloux Matériaux,FRA,Construction,1970-08-19,guilloux-materiaux.example
+200,Grossiste Forez,FRA,Retail,2003-01-04,grossiste-forez.example
+201,Pawlak Consultants SAS,FRA,Consulting,1989-10-24,pawlak-consultants.example
+203,Boulangerie Picard,FRA,Food industry,2015-02-09,boulangerie-picard.example
+204,Hôtellerie Gambie SARL,FRA,Tourism,1968-10-19,hotellerie-gambie.example
+205,Conradt & Lousada,CHE,Pharmaceuticals,1953-03-04,conradt-lousada.example
+206,Garcia & Sigismondi SAS,FRA,Food industry,2000-12-13,garcia-sigismondi.example
+207,Groupe Conseil IT Taterka,FRA,IT services,2017-10-01,groupe-conseil-it.example
+209,Mutuelle Hemery SARL,FRA,Mutual insurance,1962-06-24,mutuelle-hemery.example
+211,Génie Civil Lotten,FRA,Construction,2004-05-07,genie-civil-lotten.example
+213,IT-Services Glauser GmbH,DEU,IT services,1995-05-19,it-services-glauser.example
+214,Fonderie De Saint Jean SAS,FRA,Manufacturing,1994-07-14,fonderie-saint-jean.example
+216,Amt Vaud GmbH,CHE,Public administration,2013-11-14,amt-vaud.example
+217,Akademie Steinhardt GmbH,CHE,Education,1973-09-15,akademie-steinhardt.example
+218,Ladreyt Promotion SA,FRA,Real estate,2012-06-26,ladreyt-promotion.example
+219,Sagory Usinage,FRA,Manufacturing,1966-12-26,sagory-usinage.example
+220,Angéloz & Sivapathasundaram Sàrl,CHE,Insurance,2003-08-10,angeloz-sivapathasundaram.example
+221,Garage Camargue,FRA,Automotive,1965-07-24,garage-camargue.example
+222,Vins Gadras SAS,FRA,Food industry,1976-08-22,vins-gadras.example
+223,Robertson Transport Ltd,GBR,Transport and logistics,1956-07-10,robertson-transport.co.example
+224,Commerce Vexin SARL,FRA,Retail,1970-05-08,commerce-vexin.example
+225,Baugesellschaft Ferreira GmbH,DEU,Construction,2011-08-27,baugesellschaft-ferreira.example
+227,Gaz Choquert,FRA,Energy,1967-06-20,gaz-choquert.example
+228,Farmaceutici Romano S.p.A.,ITA,Pharmaceuticals,1985-10-20,farmaceutici-romano.example
+229,Pétrole Sabourault SAS,FRA,Energy,1974-06-24,petrole-sabourault.example
+230,Express Abderrazak Sàrl,CHE,Transport and logistics,1977-12-25,express-abderrazak.example
+231,Éolien Luberon SA,FRA,Energy,1952-01-10,eolien-luberon.example
+236,Machala Conseil IT SAS,FRA,IT services,2006-07-11,machala-conseil-it.example
+237,Collanges & Manouvel-Savrimoutou SAS,FRA,Manufacturing,1950-05-29,collanges-manouvel-savrimoutou.example
+238,Patrimoine Mobio SA,CHE,Banking,1961-02-17,patrimoine-mobio.example
+240,Meziere Académie SARL,FRA,Education,1994-04-08,meziere-academie.example
+241,Travaux Publics Freyre SAS,FRA,Construction,2005-04-22,travaux-publics-freyre.example
+242,Groupe Thérapeutique Busquet,FRA,Pharmaceuticals,1997-09-11,groupe-therapeutique-busquet.example
+243,Centre Hospitalier Dordogne,FRA,Healthcare,1978-04-23,centre-hospitalier-dordogne.example
+244,Aynaud Data SA,FRA,Software publishing,1958-02-27,aynaud-data.example
+245,Groupe Prévoyance Camerlo,FRA,Mutual insurance,1995-07-07,groupe-prevoyance-camerlo.example
+246,Tsang Audit SAS,FRA,Consulting,1978-10-10,tsang-audit.example
+247,Schutz Hässig GmbH,CHE,Insurance,1962-08-13,schutz-hassig.example
+248,Costruzioni Villa S.p.A.,ITA,Construction,2000-07-18,costruzioni-villa.example
+249,Commerce Gascogne SA,FRA,Retail,2010-05-10,commerce-gascogne.example
+250,École Estérel SAS,FRA,Education,1994-08-26,ecole-esterel.example
+255,Le Pouliquen & Bonnecarrere,FRA,Insurance,1997-07-26,pouliquen-bonnecarrere.example
+256,Express Paureau SARL,FRA,Transport and logistics,1984-03-13,express-paureau.example
+257,Versicherung Lugano AG,CHE,Insurance,2013-07-12,versicherung-lugano.example
+263,Stadt Odenwald,DEU,Local government,1972-06-30,stadt-odenwald.example
+264,Ville de Vexin,FRA,Local government,1973-09-04,ville-vexin.example
+265,Groupe Hypermarchés De Jesus,FRA,Retail,2013-04-07,groupe-hypermarches-jesus.example
+267,Guechi Systèmes,FRA,Software publishing,2017-03-17,guechi-systemes.example
+268,Prévoyance Bossy SAS,FRA,Insurance,1965-09-10,prevoyance-bossy.example
+269,Groupe Jacques Services numériques,FRA,IT services,2014-09-20,groupe-jacques-services.example
+270,Isar Wohnungsbau GmbH,DEU,Real estate,1989-05-17,isar-wohnungsbau.example
+273,Perron Centre Hospitalier SA,FRA,Healthcare,1973-04-14,perron-centre-hospitalier.example
+275,Distribuzione Monti S.r.l.,ITA,Retail,1996-12-30,distribuzione-monti.example
+276,Pauvre & Ciserane SCOP,FRA,Retail,1973-12-16,pauvre-ciserane.example
+277,Assurances Uri SA,CHE,Insurance,1954-05-11,assurances-uri.example
+278,Sargenton & Pedrazzi,FRA,Transport and logistics,1989-02-01,sargenton-pedrazzi.example
+280,Dupecher Affrètement SA,FRA,Transport and logistics,2007-12-19,dupecher-affretement.example
+281,Groupe Caron & Lalanne,FRA,IT services,1999-11-13,groupe-caron-lalanne.example
+284,Transports Birabeau SA,FRA,Transport and logistics,2012-09-10,transports-birabeau.example
+287,Ganivet Express SCOP,FRA,Transport and logistics,1970-05-04,ganivet-express.example
+288,Weiß Tiefbau GmbH,DEU,Construction,2011-06-07,wei-tiefbau.example
+290,Partenaires Jeffers SARL,FRA,Consulting,1962-11-02,partenaires-jeffers.example
+292,Ahmetaj & Süngü AG,CHE,IT services,1995-01-18,ahmetaj-sungu.example
+293,Mairie de Bordeaux,FRA,Local government,1997-08-27,ville-bordeaux.example
+294,Groupe Hein & Pommier,FRA,Consulting,1976-07-04,groupe-hein-pommier.example
+295,Communauté d'agglomération de Mercantour,FRA,Local government,1984-01-23,agglo-mercantour.example
+296,Fonderie Pontini SARL,FRA,Manufacturing,1974-12-23,fonderie-pontini.example
+297,Akademie Fanni,CHE,Education,2004-09-30,akademie-fanni.example
+298,Gentile & Amato S.p.A.,ITA,Software publishing,2011-04-03,gentile-amato.example
+299,Messagerie Bresse SARL,FRA,Transport and logistics,1994-02-11,messagerie-bresse.example
+300,Courtage Hochart SARL,FRA,Insurance,1974-05-31,courtage-hochart.example
+301,Luvisutto Construction,FRA,Construction,1963-07-04,luvisutto-construction.example
+302,Glab Messagerie SARL,FRA,Transport and logistics,2010-06-23,glab-messagerie.example
+303,Commune de Strassen,LUX,Local government,1952-03-13,commune-strassen.example
+304,Abbou Électricité SA,FRA,Energy,1999-07-17,abbou-electricite.example
+306,Prévoyance Jura EURL,FRA,Insurance,2013-09-06,prevoyance-jura.example
+307,Fourticq Université,FRA,Education,1974-11-28,fourticq-universite.example
+308,Groupe Plastiques Canavy,FRA,Manufacturing,1958-10-21,groupe-plastiques-canavy.example
+309,Laiterie Resac,FRA,Food industry,1968-02-27,laiterie-resac.example
+312,Mercier Pharmaceutique SAS,FRA,Pharmaceuticals,1993-08-01,mercier-pharmaceutique.example
+313,Assistance Persinet,FRA,Insurance,1962-03-13,assistance-persinet.example
+318,Amary Hydroélectricité SAS,FRA,Energy,1950-09-02,amary-hydroelectricite.example
+319,IT-Services Touzani,CHE,IT services,2017-09-12,it-services-touzani.example
+320,Ingénierie Vendée,FRA,Consulting,1995-02-08,ingenierie-vendee.example
+321,Groupe Plastiques Ruffat,FRA,Manufacturing,1987-11-24,groupe-plastiques-ruffat.example
+322,Magasins Mouchon,FRA,Retail,1987-10-27,magasins-mouchon.example
+323,Voyages Dastugue,FRA,Tourism,2014-03-09,voyages-dastugue.example
+324,Intégration Luberon SARL,FRA,IT services,1994-08-23,integration-luberon.example
+325,Groupe Appatore & Prevoteau,FRA,Construction,1957-09-20,groupe-appatore-prevoteau.example
+326,Mignoli & Di Traglia SA,CHE,Software publishing,1974-03-30,mignoli-traglia.example
+327,Ems Schutz GmbH,DEU,Insurance,2015-02-26,ems-schutz.example
+328,Fremeaux & Bourbiaux,FRA,Energy,2002-09-08,fremeaux-bourbiaux.example
+329,Baugesellschaft Schmitt GmbH,DEU,Construction,1988-05-09,baugesellschaft-schmitt.example
+330,Groupe Eren & Croux,FRA,Pharmaceuticals,2003-12-01,groupe-eren-croux.example
+331,Schwarzwald Assekuranz GmbH,DEU,Insurance,1997-10-18,schwarzwald-assekuranz.example
+335,Garage Bigny SA,FRA,Automotive,1977-02-23,garage-bigny.example
+336,Mermet & Robin SAS,FRA,Manufacturing,1995-05-18,mermet-robin.example
+337,Trasporti Mancini S.r.l.,ITA,Transport and logistics,1985-01-08,trasporti-mancini.example
+338,Farmaceutici Ricci S.r.l.,ITA,Pharmaceuticals,1953-11-21,farmaceutici-ricci.example
+341,Campus Heintzelmann SARL,FRA,Education,2014-05-11,campus-heintzelmann.example
+343,Benhammouda Courtage,FRA,Insurance,1975-09-26,benhammouda-courtage.example
+345,Direction départementale des territoires Estérel,FRA,Public administration,1982-09-18,direction-departementale-territoires2.example
+346,Groupe Roux Informatique,FRA,IT services,1992-08-11,groupe-roux-informatique.example
+347,Informatique Léman,CHE,IT services,1985-01-18,informatique-leman.example
+349,Biotech Lantoine SARL,FRA,Pharmaceuticals,2002-10-15,biotech-lantoine.example
+352,Express Dartencet SAS,FRA,Transport and logistics,1986-01-19,express-dartencet.example
+353,Courtage Bruggeman SA,LUX,Insurance,2001-05-25,courtage-bruggeman.example
+354,Riguet & Jalicon,FRA,Construction,1997-06-06,riguet-jalicon.example
+355,Assekuranz Froelicher-Bournaud,CHE,Insurance,1989-01-06,assekuranz-froelicher-bournaud.example
+356,Westfalen Systemhaus GmbH,DEU,IT services,1961-10-30,westfalen-systemhaus.example
+357,Konprifti & Moor GmbH,DEU,Pharmaceuticals,1952-05-07,konprifti-moor.example
+358,De Croocq Usinage SA,BEL,Manufacturing,1995-03-29,croocq-usinage.example
+359,Fret Bordeaux SAS,FRA,Transport and logistics,1950-09-03,fret-bordeaux.example
+361,Agence régionale de santé Armor,FRA,Public administration,2006-06-10,agence-regionale-sante3.example
+362,Communications Argoat SA,FRA,Telecommunications,2013-12-10,communications-argoat.example
+363,Pharmaceutique Rouergue SAS,FRA,Pharmaceuticals,2018-01-30,pharmaceutique-rouergue.example
+364,Ville de Tarn,FRA,Local government,1996-06-06,ville-tarn.example
+365,Consulenze Conti S.r.l.,ITA,Consulting,1992-06-05,consulenze-conti.example
+367,Groupe Scotto Habitat,FRA,Real estate,1993-09-22,groupe-scotto-habitat.example
+368,Distribution Côte d'Azur,FRA,Retail,2004-08-05,distribution-cote-azur.example
+369,Évasion Lot SAS,FRA,Tourism,1954-08-13,evasion-lot.example
+370,Coopérative agricole Rudelin SCOP,FRA,Food industry,1959-06-22,cooperative-agricole-rudelin.example
+371,Dekker Plastics N.V.,NLD,Manufacturing,1960-06-05,dekker-plastics.example
+373,Groupe Hôtels Le Rousseau,FRA,Tourism,1975-10-25,groupe-hotels-rousseau.example
+375,Gottardi Medizin GmbH,DEU,Healthcare,2006-08-12,gottardi-medizin.example
+376,Viandes Trégor SARL,FRA,Food industry,2014-09-26,viandes-tregor.example
+379,Lange Werkzeugbau GmbH & Co. KG,DEU,Manufacturing,2001-02-24,lange-werkzeugbau.example
+380,Groupe Télécom Alibhaye,FRA,Telecommunications,1964-10-10,groupe-telecom-alibhaye.example
+381,Mobile Rhône,FRA,Telecommunications,1996-08-30,mobile-rhone.example
+384,Médias Leupe SA,FRA,Media,2016-06-23,medias-leupe.example
+385,Radiologie Fretard,FRA,Healthcare,1970-07-23,radiologie-fretard.example
+388,Garage Nezet SAS,FRA,Automotive,1955-09-02,garage-nezet.example
+389,Dejoye & Santiago,FRA,IT services,1986-06-12,dejoye-santiago.example
+390,Informatica Rizzo S.r.l.,ITA,IT services,1950-12-02,informatica-rizzo.example
+391,Marnas Comptoir EURL,FRA,Retail,1996-10-04,marnas-comptoir.example
+392,Intégration Lereffait SAS,FRA,IT services,1985-03-14,integration-lereffait.example
+394,Wagner IT-Services GmbH,DEU,IT services,1965-05-16,wagner-it-services.example
+395,Hypermarchés Lille SA,FRA,Retail,2012-07-01,hypermarches-lille.example
+397,Direction départementale des territoires Trégor,FRA,Public administration,1978-06-20,direction-departementale-territoires3.example
+400,Presse Evrot,FRA,Media,1995-05-26,presse-evrot.example
+402,Turillon & Bataillet SAS,FRA,Construction,2005-04-05,turillon-bataillet.example
+404,Caisse primaire Argoat,FRA,Public administration,1988-07-31,caisse-primaire-argoat.example
+405,Systèmes d'information Garonne,FRA,IT services,1978-11-24,systemes-information-garonne.example
+406,Pharma Lenoir,FRA,Pharmaceuticals,2004-10-10,pharma-lenoir.example
+407,Campus Champagne SA,FRA,Education,2017-08-17,campus-champagne.example
+408,Crédit Our SA,LUX,Banking,2004-07-02,credit-our.example
+411,Goin Garage SRL,BEL,Automotive,1994-07-24,goin-garage.example
+413,Lavaure Viandes,FRA,Food industry,1999-05-14,lavaure-viandes.example
+415,Dafflon & Xoxi,CHE,Software publishing,1998-05-14,dafflon-xoxi.example
+416,Industrie Iseo S.r.l.,ITA,Manufacturing,1977-11-07,industrie-iseo.example
+419,Plastiques Commenil EURL,FRA,Manufacturing,2014-04-06,plastiques-commenil.example
+420,Chatton Protection SAS,FRA,Insurance,1955-08-16,chatton-protection.example
+421,Leobon & Van Bunderen SAS,FRA,Construction,1954-08-17,leobon-bunderen.example
+422,Dematteo Équipements SARL,FRA,Manufacturing,1978-05-23,dematteo-equipements.example
+423,Conseil Belhi EURL,FRA,Consulting,1993-12-10,conseil-belhi.example
+424,Groupe Prévoyance Yavuz,FRA,Mutual insurance,2001-11-27,groupe-prevoyance-yavuz.example
+425,Groupe Berzi & Sangarama,FRA,Real estate,1967-03-27,groupe-berzi-sangarama.example
+427,Beddelem Digital,FRA,Software publishing,1995-05-09,beddelem-digital.example
+428,Kirsch Medizin GmbH,DEU,Healthcare,1952-08-13,kirsch-medizin.example
+429,Stadt Isar,DEU,Local government,1975-07-10,stadt-isar.example
+430,Gestion locative Tarn,FRA,Real estate,2009-11-24,gestion-locative-tarn.example
+431,Mairie de Provence,FRA,Local government,1961-03-14,ville-provence.example
+432,Weber Wohnbau GmbH,DEU,Real estate,1976-10-24,weber-wohnbau.example
+435,Office public de l'habitat Nantes,FRA,Public administration,1987-12-22,office-public-habitat5.example
+436,Industrie Gran Sasso S.p.A.,ITA,Manufacturing,1994-06-29,industrie-gran-sasso.example
+437,Barcons Mutualité SAS,FRA,Mutual insurance,1977-09-24,barcons-mutualite.example
+438,Hurtlin & Dandelot SAS,FRA,Construction,1955-04-18,hurtlin-dandelot.example
+441,Hôtellerie Fieuzal SAS,FRA,Tourism,1953-12-26,hotellerie-fieuzal.example
+442,Lech Informatik GmbH,DEU,IT services,1985-02-07,lech-informatik.example
+443,Office public de l'habitat Ardennes,FRA,Public administration,2008-07-10,office-public-habitat6.example
+444,Ayoub & Kicka SA,FRA,Consulting,2005-11-07,ayoub-kicka.example
+445,Presse Demichelet SARL,FRA,Media,1980-08-12,presse-demichelet.example
+447,Équipements Cornouaille SAS,FRA,Manufacturing,1986-12-20,equipements-cornouaille.example
+448,Télécom Ardèche SCOP,FRA,Telecommunications,1964-06-12,telecom-ardeche.example
+449,Groupe Industries Holtzinger,FRA,Manufacturing,1969-06-01,groupe-industries-holtzinger.example
+450,Affrètement Cormier,FRA,Transport and logistics,1961-08-09,affretement-cormier.example
+451,Krause Molkerei GmbH,DEU,Food industry,1964-03-11,krause-molkerei.example
+453,Qulore Ingénierie SAS,FRA,Consulting,1985-01-03,qulore-ingenierie.example
+454,Ville de Provence,FRA,Local government,1969-07-09,ville-provence2.example
+455,Communauté d'agglomération de Montpellier,FRA,Local government,2013-10-27,agglo-montpellier.example
+456,Lettings Khlii B.V.,NLD,Real estate,1968-05-09,lettings-khlii.example
+457,Koch Maschinenbau GmbH & Co. KG,DEU,Manufacturing,1967-05-05,koch-maschinenbau.example
+459,Travaux Publics Corbières,FRA,Construction,1972-04-04,travaux-publics-corbieres.example
+460,Tourisme Tchare SA,CHE,Tourism,2018-08-02,tourisme-tchare.example
+461,Gabin & Peritore SAS,FRA,Education,1975-08-24,gabin-peritore.example
+462,Apagy & Simon,FRA,Consulting,1960-09-06,apagy-simon.example
+463,Industrie Piras S.r.l.,ITA,Manufacturing,1961-09-24,industrie-piras.example
+464,Hafsouni & Bachmann AG,CHE,Insurance,1959-04-16,hafsouni-bachmann.example
+465,Baraka Plastiques EURL,FRA,Manufacturing,1989-12-04,baraka-plastiques.example
+468,City of Amstel,NLD,Local government,1963-04-23,city-amstel.example
+469,Evans Power plc,GBR,Energy,1997-08-16,evans-power.co.example
+470,Prévoyance Castells SAS,FRA,Mutual insurance,1996-03-02,prevoyance-castells.example
+471,Medical Gerritsen N.V.,NLD,Healthcare,1973-02-23,medical-gerritsen.example
+472,Polleux Magasins SAS,FRA,Retail,1957-10-05,polleux-magasins.example
+473,Informatique Roussillon SAS,FRA,IT services,1951-08-11,informatique-roussillon.example
+474,Groupe Affrètement Melendo,FRA,Transport and logistics,1974-02-25,groupe-affretement-melendo.example
+475,Services numériques Berneau SARL,FRA,IT services,1975-09-27,services-numeriques-berneau.example
+477,Logistique Vosges SARL,FRA,Transport and logistics,1968-05-10,logistique-vosges.example
+479,Le Quilliec Métallurgie SAS,FRA,Manufacturing,2011-12-23,quilliec-metallurgie.example
+480,Conseil départemental de Camargue,FRA,Local government,1995-01-16,departement-camargue.example
+482,Ville de Vendée,FRA,Local government,1981-11-26,ville-vendee.example
+484,Assistance Bovet,CHE,Insurance,2014-09-20,assistance-bovet.example
+485,Manutention Leprieur SAS,FRA,Transport and logistics,2004-03-03,manutention-leprieur.example
+486,Ville de Lot,FRA,Local government,1993-02-10,ville-lot.example
+488,Lesvigne Mécanique SARL,FRA,Manufacturing,1970-07-18,lesvigne-mecanique.example
+489,Watelle & Jorand SAS,FRA,Real estate,1967-08-23,watelle-jorand.example
+491,Eledo Mécanique SAS,FRA,Manufacturing,2007-05-29,eledo-mecanique.example
+493,Radio Bockl SA,FRA,Media,2004-05-01,radio-bockl.example
+496,Commerce Limousin SAS,FRA,Retail,1968-04-03,commerce-limousin.example
+497,Marinello Santé,FRA,Healthcare,1983-01-12,marinello-sante.example
+498,Construction Hantzberg,FRA,Construction,1978-08-01,construction-hantzberg.example
+499,Électricité Popaj SA,CHE,Energy,1964-08-10,electricite-popaj.example
+501,Carbasse Audit SARL,FRA,Consulting,1962-12-31,carbasse-audit.example
+502,Merniz Protection,FRA,Insurance,1978-03-24,merniz-protection.example
+503,Kwik Distribution SAS,FRA,Retail,1958-12-28,kwik-distribution.example
+504,Aciers Estérel,FRA,Manufacturing,1971-05-16,aciers-esterel.example
+505,Médical Ravella SAS,FRA,Healthcare,1968-11-06,medical-ravella.example
+506,Mouneu Réseaux SAS,FRA,Telecommunications,1950-01-28,mouneu-reseaux.example
+507,Foncière Crasnier SARL,FRA,Real estate,1980-05-09,fonciere-crasnier.example
+508,Conseil départemental de Cévennes,FRA,Local government,1959-01-06,departement-cevennes.example
+509,Audiovisuel Weimerskirch SA,LUX,Media,1969-08-13,audiovisuel-weimerskirch.example
+511,Mairie de Chartreuse,FRA,Local government,1984-05-08,ville-chartreuse.example
+513,Systèmes d'information Famenne,BEL,IT services,1970-11-14,systemes-information-famenne.example
+514,Solaire Cipro SARL,FRA,Energy,1981-10-28,solaire-cipro.example
+515,Aciers Jala,FRA,Manufacturing,1954-01-10,aciers-jala.example
+516,Pechoux & Berthe SARL,FRA,Insurance,1981-08-23,pechoux-berthe.example
+517,Saque & Aptel SA,FRA,Mutual insurance,1989-11-24,saque-aptel.example
+520,Commune de Junglinster,LUX,Local government,1974-04-18,commune-junglinster.example
+521,Iliazov & Ilieski AG,CHE,Healthcare,1976-04-24,iliazov-ilieski.example
+522,Prigent Mutuelle Santé,FRA,Mutual insurance,1996-04-10,prigent-mutuelle-sante.example
+523,Ricardo & Pradels SAS,FRA,Energy,2008-01-06,ricardo-pradels.example
+524,Communauté d'agglomération de Gascogne,FRA,Local government,2012-08-14,agglo-gascogne.example
+526,Groupe Gaz Vandezande,FRA,Energy,1997-05-16,groupe-gaz-vandezande.example
+528,Santé Menard,FRA,Healthcare,1973-01-05,sante-menard.example
+529,Preaudat Patrimoine SAS,FRA,Banking,2006-07-29,preaudat-patrimoine.example
+530,Versicherung Birs AG,CHE,Insurance,1982-01-21,versicherung-birs.example
+532,Pozzoli Pièces auto,FRA,Automotive,2008-02-03,pozzoli-pieces-auto.example
+533,Crédit Faivre SA,FRA,Banking,2011-01-14,credit-faivre.example
+534,Voyages Ardennes,FRA,Tourism,2017-12-11,voyages-ardennes.example
+535,Egert Magasins EURL,FRA,Retail,2009-10-08,egert-magasins.example
+536,Wohnungsbau Mili AG,CHE,Real estate,1953-04-05,wohnungsbau-mili.example
+537,Grossiste La Rosa,FRA,Retail,1991-03-03,grossiste-rosa.example
+538,Software De Santis S.r.l.,ITA,Software publishing,1995-06-03,software-santis.example
+542,Agence régionale de santé Finistère,FRA,Public administration,1983-06-12,agence-regionale-sante4.example
+543,Prévoyance Toulouse SAS,FRA,Mutual insurance,1966-04-09,prevoyance-toulouse.example
+548,Prévoyance Gindre,FRA,Mutual insurance,2006-10-13,prevoyance-gindre.example
+550,Van der Velden & Schouten B.V.,NLD,IT services,1985-08-10,velden-schouten.example
+551,Fret Meuse SARL,FRA,Transport and logistics,2002-12-09,fret-meuse.example
+552,Lüneburger Heide Landesamt GmbH,DEU,Public administration,1991-10-31,luneburger-heide-landesamt.example
+553,Lecoules & Moricet SAS,FRA,Transport and logistics,2003-08-11,lecoules-moricet.example
+554,Épargne Oise SARL,FRA,Banking,2004-02-20,epargne-oise.example
+555,Kommunikation Nyon AG,CHE,Telecommunications,1987-07-18,kommunikation-nyon.example
+557,Ville de Occitanie,FRA,Local government,1987-01-19,ville-occitanie.example
+558,Communications Lacoste SAS,FRA,Telecommunications,2000-10-04,communications-lacoste.example
+560,Ducretot & Vialette,FRA,Manufacturing,1990-09-27,ducretot-vialette.example
+561,Terrassement Delpouve SCOP,FRA,Construction,1980-02-12,terrassement-delpouve.example
+562,Crédit Floner SARL,FRA,Banking,1951-11-12,credit-floner.example
+563,Van Dijk & Arakaza B.V.,NLD,Energy,1988-01-21,dijk-arakaza.example
+564,Radiologie Boukaala,FRA,Healthcare,1987-02-02,radiologie-boukaala.example
+565,Logiciels Seine,FRA,Software publishing,2018-06-05,logiciels-seine.example
+566,Voyages Loncke,FRA,Tourism,1970-02-26,voyages-loncke.example
+567,Plastiques Rennes SARL,FRA,Manufacturing,1968-12-26,plastiques-rennes.example
+568,Négoce Marzougui SAS,FRA,Retail,1984-05-14,negoce-marzougui.example
+569,Unternehmensberatung Aargau AG,CHE,Consulting,2000-07-31,unternehmensberatung-aargau.example
+570,Systèmes d'information Lille SA,FRA,IT services,2011-07-29,systemes-information-lille.example
+571,Properties Schulzen B.V.,NLD,Construction,1971-10-18,properties-schulzen.example
+573,Ville de Luberon,FRA,Local government,1988-04-01,ville-luberon.example
+578,Laivier & Pisseau,FRA,IT services,2005-09-09,laivier-pisseau.example
+579,Schmitt & Schmidt GmbH,DEU,Pharmaceuticals,1960-10-26,schmitt-schmidt.example
+580,Michard Express SAS,FRA,Transport and logistics,1994-09-13,michard-express.example
+581,Industries Weisang SARL,FRA,Manufacturing,1993-08-19,industries-weisang.example
+582,Groupe Baraise & Litardier,FRA,Consulting,2010-10-13,groupe-baraise-litardier.example
+583,Maurin & Rabiat Sàrl,LUX,Public administration,1996-11-27,maurin-rabiat.example
+585,Banque Meuse SA,FRA,Banking,2011-07-25,banque-meuse.example
+587,Mécanique Bresse SARL,FRA,Manufacturing,1965-09-05,mecanique-bresse.example
+588,Pfiffner & Pili AG,CHE,Transport and logistics,1971-12-02,pfiffner-pili.example
+589,Groupe Épargne Touraine,FRA,Banking,2009-07-05,groupe-epargne-touraine.example
+592,Jegard Patrimoine,FRA,Banking,1985-09-18,jegard-patrimoine.example
+594,Groupe Presse Cotentin,FRA,Media,1985-10-19,groupe-presse-cotentin.example
+595,Ville de Argoat,FRA,Local government,1965-02-04,ville-argoat.example
+596,Polyclinique Terrasse SARL,FRA,Healthcare,1952-11-03,polyclinique-terrasse.example
+597,Assistance Hardan,BEL,Insurance,1988-12-09,assistance-hardan.example
+599,Farmaceutici Di Stefano S.r.l.,ITA,Pharmaceuticals,1995-01-31,farmaceutici-stefano.example
+600,Düsseldorf Presse GmbH,DEU,Media,1994-04-23,dusseldorf-presse.example
+601,Communauté d'agglomération de Saône,FRA,Local government,2002-03-18,agglo-saone.example
+602,Financement Marolla,FRA,Banking,1964-07-22,financement-marolla.example
+603,Conseil Palard SARL,FRA,Consulting,1996-12-10,conseil-palard.example
+604,Hoxha Promotion,FRA,Construction,1969-07-24,hoxha-promotion.example
+606,Guibert Mobilité EURL,FRA,Automotive,1962-10-21,guibert-mobilite.example
+608,Floucat Hôtellerie SA,FRA,Tourism,2008-11-13,floucat-hotellerie.example
+609,Biosciences Watine SAS,FRA,Pharmaceuticals,1955-08-07,biosciences-watine.example
+610,Hellain & De Feo SAS,FRA,Banking,1966-11-24,hellain-feo.example
+613,Treuhand Schulz SE,DEU,Banking,1963-08-17,treuhand-schulz.example
+614,Biosciences Parent SA,FRA,Pharmaceuticals,2010-09-10,biosciences-parent.example
+616,Garantie Tondeur SA,FRA,Insurance,2004-05-14,garantie-tondeur.example
+617,Office public de l'habitat Côte d'Opale,FRA,Public administration,1989-08-31,office-public-habitat7.example
+618,Weber Märkte GmbH,DEU,Retail,1958-07-13,weber-markte.example
+620,Kaczmarek Travaux Publics SAS,FRA,Construction,2001-03-11,kaczmarek-travaux-publics.example
+623,Romain & Hallaert SA,BEL,Public administration,1957-08-01,romain-hallaert.example
+624,Schäfer Bank GmbH,DEU,Banking,1957-12-30,schafer-bank.example
+625,Sirica Infogérance,BEL,IT services,1972-10-28,sirica-infogerance.example
+626,Sisti & Sery,FRA,Transport and logistics,1981-01-07,sisti-sery.example
+628,Pellegrini & Pellegrini S.p.A.,ITA,Manufacturing,2013-02-21,pellegrini-pellegrini.example
+629,Audit Bretagne SARL,FRA,Consulting,2009-01-02,audit-bretagne.example
+630,Industries Dauphiné,FRA,Manufacturing,1963-01-14,industries-dauphine.example
+633,Industries Mery SARL,FRA,Manufacturing,2004-07-07,industries-mery.example
+634,Systèmes d'information Caillaud SAS,FRA,IT services,2005-02-14,systemes-information-caillaud.example
+636,Intégration Noleau SA,FRA,IT services,2014-06-10,integration-noleau.example
+638,Beglinger & Conchon AG,CHE,Energy,2005-04-01,beglinger-conchon.example
+639,Protection Desmots,FRA,Insurance,1992-12-26,protection-desmots.example
+642,Partenaires Appenzell Sàrl,CHE,Consulting,1959-06-15,partenaires-appenzell.example
+643,Berthoin & Martin SAS,FRA,Pharmaceuticals,1958-04-08,berthoin-martin.example
+644,Communauté d'agglomération de Marne,FRA,Local government,1966-06-02,agglo-marne.example
+646,Hendriks & Verbeek B.V.,NLD,Banking,1981-05-11,hendriks-verbeek.example
+647,Conseil Périgord,FRA,Consulting,1993-08-23,conseil-perigord.example
+648,Seytre Logiciels SA,FRA,Software publishing,1958-04-26,seytre-logiciels.example
+649,Logistique Ducarne SA,FRA,Transport and logistics,1952-10-12,logistique-ducarne.example
+650,Mutuelle Pasdeloup SAS,FRA,Mutual insurance,1996-10-16,mutuelle-pasdeloup.example
+651,Prévoyance Paquis SAS,FRA,Mutual insurance,1980-05-04,prevoyance-paquis.example
+653,Deguigne Génie Civil SAS,FRA,Construction,2003-04-12,deguigne-genie-civil.example
+655,Gaucher & Nouri SARL,FRA,Software publishing,1972-10-26,gaucher-nouri.example
+656,Gironis Épargne SARL,FRA,Banking,1969-09-12,gironis-epargne.example
+657,Commerce Livera SARL,FRA,Retail,1957-09-15,commerce-livera.example
+658,Groupe Manoir Hôtels,FRA,Tourism,1994-02-28,groupe-manoir-hotels.example
+659,Demurtas Boulangerie SARL,FRA,Food industry,2014-10-31,demurtas-boulangerie.example
+661,Groupe Grossiste Cotentin,FRA,Retail,1990-12-03,groupe-grossiste-cotentin.example
+662,Schulz Mobilfunk GmbH,DEU,Telecommunications,1982-04-07,schulz-mobilfunk.example
+663,Groupe Mery Fibre,FRA,Telecommunications,2015-06-10,groupe-mery-fibre.example
+664,Réseaux Qamili,CHE,Telecommunications,1966-11-08,reseaux-qamili.example
+665,Radio Charente,FRA,Media,1985-05-05,radio-charente.example
+667,Brung Assistance,FRA,Insurance,1994-09-26,brung-assistance.example
+669,Groupe Express Berry,FRA,Transport and logistics,2002-04-30,groupe-express-berry.example
+670,Consultants Kajdomcaj Sàrl,CHE,Consulting,1976-05-08,consultants-kajdomcaj.example
+672,Verfaillie Plastiques SA,BEL,Manufacturing,2009-03-10,verfaillie-plastiques.example
+673,Precheur Industries SAS,FRA,Manufacturing,2012-12-20,precheur-industries.example
+676,Software Archer SAS,FRA,Software publishing,1993-11-28,software-archer.example
+677,Infogérance Würker,CHE,IT services,1979-01-21,infogerance-wurker.example
+679,Hartmann Assekuranz AG,DEU,Insurance,1953-06-28,hartmann-assekuranz.example
+680,Direction départementale des territoires Normandie,FRA,Public administration,1975-01-31,direction-departementale-territoires5.example
+681,Thomas Transport Ltd,GBR,Transport and logistics,1980-10-04,thomas-transport.co.example
+682,Aciers Ardèche SAS,FRA,Manufacturing,1991-11-28,aciers-ardeche.example
+687,Xeuxet Transports Sàrl,LUX,Transport and logistics,1971-05-01,xeuxet-transports.example
+688,Guerreiro Garantie SARL,FRA,Insurance,1972-01-26,guerreiro-garantie.example
+689,Industries Cévennes SAS,FRA,Manufacturing,1964-04-21,industries-cevennes.example
+690,Transport Gruyère AG,CHE,Transport and logistics,1993-10-26,transport-gruyere.example
+691,Prévoyance Machet SARL,FRA,Insurance,1979-04-22,prevoyance-machet.example
+692,Résidences Garonne SAS,FRA,Tourism,1968-11-18,residences-garonne.example
+693,Négoce Dif SARL,FRA,Retail,2010-05-04,negoce-dif.example
+694,Bare & Abadie SARL,FRA,Energy,1953-11-01,bare-abadie.example
+696,Solutions Salmon SA,FRA,Software publishing,1974-07-08,solutions-salmon.example
+697,Stadt Thüringen,DEU,Local government,2009-06-20,stadt-thuringen.example
+698,Boissiere & Tancelin,FRA,Construction,1995-06-26,boissiere-tancelin.example
+699,Communications Deschler Ltd,GBR,Telecommunications,2015-03-12,communications-deschler.co.example
+700,Stadt Luzern,CHE,Local government,1992-05-06,stadt-luzern.example
+701,Metallwerke Schwarz GmbH & Co. KG,DEU,Manufacturing,1995-01-19,metallwerke-schwarz.example
+702,Blanchet & Henault SARL,FRA,Banking,1963-11-18,blanchet-henault.example
+703,Garantie Marne,FRA,Insurance,1990-10-15,garantie-marne.example
+704,Groupe Declerck Industries,FRA,Manufacturing,1971-07-03,groupe-declerck-industries.example
+706,Ville de Estérel,FRA,Local government,2011-02-01,ville-esterel.example
+707,Patrimoine Erbani,FRA,Banking,2011-12-06,patrimoine-erbani.example
+708,Wagner Patrimoine SAS,FRA,Banking,1957-06-14,wagner-patrimoine.example
+710,Fablet Presse,FRA,Media,1960-02-17,fablet-presse.example
+711,Conserverie Markovics Sàrl,CHE,Food industry,1981-06-07,conserverie-markovics.example
+712,Sauerland Werkzeugbau GmbH,DEU,Manufacturing,2009-02-28,sauerland-werkzeugbau.example
+714,Stadt Spree,DEU,Local government,1956-12-02,stadt-spree.example
+715,Conseil départemental de Tarn,FRA,Local government,1999-09-02,departement-tarn.example
+717,Négoce Arsac,FRA,Retail,1957-02-06,negoce-arsac.example
+720,Rouvier Systèmes d'information SAS,FRA,IT services,1977-04-16,rouvier-systemes-information.example
+721,Treuhand Hamouda AG,CHE,Banking,1988-06-06,treuhand-hamouda.example
+725,Infogérance Vanwesemael SA,BEL,IT services,1951-11-30,infogerance-vanwesemael.example
+726,Großhandel Janowski,CHE,Retail,1980-10-09,grohandel-janowski.example
+728,Giuliani & Colombo S.p.A.,ITA,Healthcare,1952-09-16,giuliani-colombo.example
+729,Ville de Beaujolais,FRA,Local government,1970-07-03,ville-beaujolais.example
+730,Warenhaus Yemane AG,CHE,Retail,1973-08-19,warenhaus-yemane.example
+731,Comptoir Pintat,FRA,Retail,1957-01-31,comptoir-pintat.example
+732,Groupe Biosciences Brie,FRA,Pharmaceuticals,1971-07-03,groupe-biosciences-brie.example
+733,Conseil départemental de Charente,FRA,Local government,2002-12-21,departement-charente.example
+734,Genitoni Médical SCOP,FRA,Healthcare,1964-08-08,genitoni-medical.example
+735,Dethiere Terrassement SAS,FRA,Construction,1950-11-09,dethiere-terrassement.example
+737,Laboratoires Tabero,CHE,Pharmaceuticals,1957-03-18,laboratoires-tabero.example
+738,Braun Maschinenbau SE,DEU,Manufacturing,1994-06-14,braun-maschinenbau.example
+739,Groupe Commerce Ducourant,FRA,Retail,2013-09-13,groupe-commerce-ducourant.example
+740,Hoger & Maquaire SARL,FRA,Manufacturing,1962-05-27,hoger-maquaire.example
+741,Brehinier Consultants SA,FRA,Consulting,1982-08-09,brehinier-consultants.example
+742,Clinique Boyadjian SAS,FRA,Healthcare,1964-12-08,clinique-boyadjian.example
+743,Lech Immobilien AG,DEU,Construction,1980-01-10,lech-immobilien.example
+744,Commune de Martigny,CHE,Local government,1976-08-25,commune-martigny.example
+745,Comptoir Brie SA,FRA,Retail,1983-12-11,comptoir-brie.example
+746,Caisse Jouny SAS,FRA,Banking,1963-11-25,caisse-jouny.example
+747,Pernot & Gerriet,FRA,Automotive,1975-08-12,pernot-gerriet.example
+748,Groupe Sireyjol Solidarité,FRA,Mutual insurance,1958-12-20,groupe-sireyjol-solidarite.example
+749,Robquin Garage,FRA,Automotive,2009-07-25,robquin-garage.example
+750,Fürbek & Herrmann GmbH,DEU,Banking,1964-10-21,furbek-herrmann.example
+751,Ville de Montpellier,FRA,Local government,2004-04-01,ville-montpellier.example
+752,Bertaud & Quelo,FRA,Mutual insurance,2014-05-28,bertaud-quelo.example
+754,Kredit Soysal AG,CHE,Banking,1951-01-13,kredit-soysal.example
+755,Hypermarchés Hodicq EURL,FRA,Retail,1957-05-11,hypermarches-hodicq.example
+756,Köln Gesundheit GmbH & Co. KG,DEU,Healthcare,1957-02-18,koln-gesundheit.example
+757,Sanità Piave S.r.l.,ITA,Healthcare,1995-01-29,sanita-piave.example
+760,Entraide Kumechko Sàrl,CHE,Mutual insurance,1995-11-19,entraide-kumechko.example
+761,Loisirs Bohler,FRA,Tourism,1977-08-26,loisirs-bohler.example
+762,Lachaume & Della-Valle,FRA,Manufacturing,2004-07-11,lachaume-valle.example
+763,Partenaires Minez SARL,FRA,Consulting,1971-11-07,partenaires-minez.example
+764,Sanità Lombardo S.p.A.,ITA,Healthcare,2011-02-19,sanita-lombardo.example
+765,Partenaires Barailler,FRA,Consulting,2006-01-04,partenaires-barailler.example
+766,Métallurgie Vosges SA,FRA,Manufacturing,2002-01-27,metallurgie-vosges.example
+767,Eyenga Lösungen GmbH & Co. KG,DEU,Software publishing,2015-12-08,eyenga-losungen.example
+768,Mandaglio & Kannathasan AG,CHE,Food industry,1998-08-20,mandaglio-kannathasan.example
+769,Steel Van Dam B.V.,NLD,Manufacturing,1996-02-09,steel-dam.example
+770,Trapenard Médical,FRA,Healthcare,1993-11-20,trapenard-medical.example
+772,Groupe Finance Lateltin,FRA,Banking,2001-04-21,groupe-finance-lateltin.example
+774,Stadt Ruhr,DEU,Local government,1994-03-07,stadt-ruhr.example
+775,Hypermarchés Trégor,FRA,Retail,1978-04-28,hypermarches-tregor.example
+776,Jäger Hausverwaltung AG,DEU,Real estate,2012-07-22,jager-hausverwaltung.example
+777,Financement Médoc SARL,FRA,Banking,1952-08-14,financement-medoc.example
+778,Mouchot & Larouze,FRA,Energy,1978-04-05,mouchot-larouze.example
+780,Comune di Parma,ITA,Local government,1984-04-20,comune-parma.example
+781,Solar Wallis,CHE,Energy,1963-03-16,solar-wallis.example
+782,Spessart Behörde AG,DEU,Public administration,2015-10-26,spessart-behorde.example
+783,Solutions Valligny SA,FRA,Software publishing,1985-10-17,solutions-valligny.example
+784,Travaux Publics Rainteau Sàrl,LUX,Construction,2006-04-02,travaux-publics-rainteau.example
+785,Düsseldorf Grundbesitz GmbH,DEU,Real estate,1968-08-13,dusseldorf-grundbesitz.example
+786,Groupe Conserverie Beaucamp,FRA,Food industry,2007-09-09,groupe-conserverie-beaucamp.example
+789,Courtage Sauvayre SA,FRA,Insurance,2007-08-25,courtage-sauvayre.example
+790,Deram Numérique,FRA,Software publishing,1971-01-24,deram-numerique.example
+791,Éditions Blanjoie,FRA,Media,2005-06-01,editions-blanjoie.example
+792,Communications Anjou SAS,FRA,Telecommunications,2001-01-04,communications-anjou.example
+794,Basso Équipements SARL,FRA,Manufacturing,2001-05-31,basso-equipements.example
+795,Bidoux Radio SAS,FRA,Media,1965-02-03,bidoux-radio.example
+796,Soins Jamard SARL,FRA,Healthcare,1980-12-30,soins-jamard.example
+797,Laboratoires Faux,FRA,Pharmaceuticals,1988-11-26,laboratoires-faux.example
+798,Digital Helion SAS,FRA,Software publishing,1971-05-08,digital-helion.example
+800,Mahistre & Barazzutti SAS,FRA,IT services,1969-07-02,mahistre-barazzutti.example
+801,Lazary Communications SAS,FRA,Telecommunications,1967-09-20,lazary-communications.example
+802,Krüger Großhandel GmbH & Co. KG,DEU,Retail,1970-11-22,kruger-grohandel.example
+804,Biscuiterie Bouhafs,FRA,Food industry,1962-03-09,biscuiterie-bouhafs.example
+805,Conseil départemental de Périgord,FRA,Local government,1950-06-23,departement-perigord.example
+806,Groupe Soins Popou,FRA,Healthcare,2000-08-23,groupe-soins-popou.example
+807,Hôtellerie Soufflet,FRA,Tourism,2010-12-24,hotellerie-soufflet.example
+808,Technologies Marne,FRA,IT services,2002-10-13,technologies-marne.example
+809,Deriau & Solanilla SAS,FRA,Mutual insurance,1950-01-31,deriau-solanilla.example
+810,Fret Miannay SAS,FRA,Transport and logistics,1956-09-04,fret-miannay.example
+812,Planchon & Largitte,FRA,IT services,1973-10-21,planchon-largitte.example
+813,Rosche & Mazeron SA,FRA,Media,1964-01-01,rosche-mazeron.example
+816,IT-Beratung Rünzi AG,CHE,IT services,1967-03-09,it-beratung-runzi.example
+817,Verlag Michels-Kim AG,CHE,Media,1986-01-14,verlag-michels-kim.example
+819,Da Roit & Alamelama SAS,FRA,Manufacturing,2013-11-01,da-roit-alamelama.example
+820,Hôtels Khelafi SA,CHE,Tourism,1968-02-19,hotels-khelafi.example
+822,Comptoir Sicard SAS,FRA,Retail,1950-11-16,comptoir-sicard.example
+823,Mairie de Ardennes,FRA,Local government,2009-04-22,ville-ardennes.example
+824,Werkzeugbau Gerber GmbH,DEU,Manufacturing,1986-05-03,werkzeugbau-gerber.example
+825,Biotech Janeau SAS,FRA,Pharmaceuticals,1976-09-06,biotech-janeau.example
+827,Grosbout Systèmes d'information SAS,FRA,IT services,1994-07-09,grosbout-systemes-information.example
+829,Infogérance Provence SAS,FRA,IT services,2016-07-21,infogerance-provence.example
+831,Bäckerei Feliciano,CHE,Food industry,1995-07-21,backerei-feliciano.example
+833,Conseil départemental de Anjou,FRA,Local government,2005-12-10,departement-anjou.example
+834,Groupe Aciers Ruivo,FRA,Manufacturing,1985-01-07,groupe-aciers-ruivo.example
+836,Habitat Coupleux SAS,FRA,Real estate,1987-09-08,habitat-coupleux.example
+837,Mattacchione Assurances SAS,FRA,Insurance,1981-04-23,mattacchione-assurances.example
+838,Wohnungsbau Thur AG,CHE,Real estate,2005-08-07,wohnungsbau-thur.example
+840,Groupe Issartel & Goncalves Ferreira,FRA,Manufacturing,2007-11-06,groupe-issartel-goncalves.example
+841,Kredit Caraco GmbH,DEU,Banking,1977-07-12,kredit-caraco.example
+843,Letourniant Commerce SA,FRA,Retail,1990-12-29,letourniant-commerce.example
+844,École Côte d'Opale,FRA,Education,1978-11-20,ecole-cote-opale.example
+845,Kitoko Ingénierie SAS,FRA,Consulting,2014-10-15,kitoko-ingenierie.example
+846,Partenaires Le Tertre SAS,FRA,Consulting,1999-02-11,partenaires-tertre.example
+848,Centre de formation Sahraoui SAS,FRA,Education,1955-05-06,centre-formation-sahraoui.example
+850,Mairie de Vexin,FRA,Local government,2010-05-18,ville-vexin2.example
+851,Prévoyance Menager SA,FRA,Insurance,1991-02-02,prevoyance-menager.example
+853,Mau & Cabon SA,FRA,IT services,1980-11-06,mau-cabon.example
+855,Subra Systèmes d'information SAS,FRA,IT services,1970-05-01,subra-systemes-information.example
+856,Groupe Mécanique Bret,FRA,Manufacturing,1964-08-08,groupe-mecanique-bret.example
+857,Résidences Fouillou,FRA,Real estate,1985-04-21,residences-fouillou.example
+858,Treuhand Schneider AG,DEU,Banking,1998-05-28,treuhand-schneider.example
+859,Groupe Fibre Périgord,FRA,Telecommunications,1992-12-29,groupe-fibre-perigord.example
+860,Ville de Gascogne,FRA,Local government,2009-03-25,ville-gascogne.example
+862,Systèmes Limousin SAS,FRA,Software publishing,1959-12-09,systemes-limousin.example
+863,Lycée Périgord,FRA,Education,1963-09-04,lycee-perigord.example
+864,Mairie de Médoc,FRA,Local government,1972-02-15,ville-medoc.example
+865,Groupe Pharma Colombie,FRA,Pharmaceuticals,1980-05-13,groupe-pharma-colombie.example
+867,Groupe Comptoir Gasq,FRA,Retail,2008-06-09,groupe-comptoir-gasq.example
+868,Benammar Réseaux SARL,FRA,Telecommunications,2013-09-04,benammar-reseaux.example
+870,Caisse primaire Alsace,FRA,Public administration,1994-10-31,caisse-primaire-alsace.example
+871,Groupe Télécom Durance,FRA,Telecommunications,1985-03-10,groupe-telecom-durance.example
+872,Brasserie Dordogne SARL,FRA,Food industry,1981-02-22,brasserie-dordogne.example
+873,Ingénierie Marne SA,FRA,Consulting,1977-11-10,ingenierie-marne.example
+874,Amt Uri,CHE,Public administration,1952-04-03,amt-uri.example
+875,École Dobbels,BEL,Education,1999-10-09,ecole-dobbels.example
+876,Communauté d'agglomération de Occitanie,FRA,Local government,2016-06-22,agglo-occitanie.example
+877,Fichtelgebirge Presse GmbH,DEU,Media,1953-08-04,fichtelgebirge-presse.example
+878,Maschinenbau Peter AG,CHE,Manufacturing,2005-03-16,maschinenbau-peter.example
+879,Groupe Daugeard Coopérative agricole,FRA,Food industry,1993-11-15,groupe-daugeard-cooperative.example
+880,Biancone Comptoir,FRA,Retail,1956-04-04,biancone-comptoir.example
+881,Solidarität Herzog GmbH,CHE,Mutual insurance,1952-02-25,solidaritat-herzog.example
+882,Petiton & Bado,FRA,Real estate,1956-11-28,petiton-bado.example
+884,Centre de formation Hyuseinov,CHE,Education,1970-02-06,centre-formation-hyuseinov.example
+885,Itey Distribution SAS,FRA,Retail,2016-10-25,itey-distribution.example
+886,Sorine & Chovin SA,FRA,Banking,2014-10-03,sorine-chovin.example
+887,Grossiste Heroux,FRA,Retail,1989-06-24,grossiste-heroux.example
+888,Communauté d'agglomération de Lorraine,FRA,Local government,2013-07-03,agglo-lorraine.example
+889,Formazione De Rosa S.r.l.,ITA,Education,1997-11-18,formazione-rosa.example
+890,Oliver Radiologie,FRA,Healthcare,1975-12-10,oliver-radiologie.example
+891,Groupe Hamel & Becoulet,FRA,Retail,2005-06-13,groupe-hamel-becoulet.example
+893,Pfalz Arzneimittel GmbH & Co. KG,DEU,Pharmaceuticals,1995-04-15,pfalz-arzneimittel.example
+895,Promotion Adour SARL,FRA,Real estate,2012-11-29,promotion-adour.example
+896,Corbet & Nieto SAS,FRA,Insurance,1977-10-11,corbet-nieto.example
+897,Linossier & Lamard,FRA,Education,1986-04-18,linossier-lamard.example
+898,Caisse primaire Velay,FRA,Public administration,1964-06-16,caisse-primaire-velay.example
+899,Électricité Graziano,FRA,Energy,1990-06-25,electricite-graziano.example
+900,Stupnicki Expertise SA,FRA,Consulting,1952-11-08,stupnicki-expertise.example
+903,Négoce Nivelles,BEL,Retail,2002-05-04,negoce-nivelles.example
+904,Ollinet & Chancrin,FRA,Food industry,1952-02-12,ollinet-chancrin.example
+905,Groupe Institut Tourmeau,FRA,Education,1950-04-08,groupe-institut-tourmeau.example
+906,Usinage Vilar SCOP,FRA,Manufacturing,1965-10-05,usinage-vilar.example
+907,Communauté d'agglomération de Cornouaille,FRA,Local government,1951-03-04,agglo-cornouaille.example
+908,Gougue & Sibra,FRA,Manufacturing,2004-05-17,gougue-sibra.example
+909,Assurances Gasquez SARL,FRA,Insurance,1988-11-03,assurances-gasquez.example
+910,Barchain & Vitou SAS,FRA,Insurance,2011-05-14,barchain-vitou.example
+911,Ville de Meuse,FRA,Local government,1959-07-19,ville-meuse.example
+913,Télécom Maringe SAS,FRA,Telecommunications,1976-11-14,telecom-maringe.example
+914,Ingénierie Venoge,CHE,Consulting,1982-01-23,ingenierie-venoge.example
+915,Concession Lisador,FRA,Automotive,2010-12-08,concession-lisador.example
+916,Van Dessel Cloud N.V.,NLD,Software publishing,2017-11-13,dessel-cloud.example
+918,Alimentari De Santis S.p.A.,ITA,Food industry,1974-04-28,alimentari-santis.example
+919,Conseil IT Touraine,FRA,IT services,1988-09-12,conseil-it-touraine.example
+921,Banca Barbieri S.p.A.,ITA,Banking,1969-01-07,banca-barbieri.example
+924,Systèmes d'information Saint-Gilles,BEL,IT services,2000-05-23,systemes-information-saint.example
+925,Lidin & Beaufaron SAS,FRA,Banking,1971-08-01,lidin-beaufaron.example
+926,Services numériques Meloni SAS,FRA,IT services,1966-07-30,services-numeriques-meloni.example
+927,Garage Chamas SAS,FRA,Automotive,1952-03-13,garage-chamas.example
+928,Bank Weissenstein GmbH,CHE,Banking,1956-04-26,bank-weissenstein.example
+930,Institut Bassi SA,CHE,Public administration,1983-12-22,institut-bassi.example
+931,Plastiques Morvan SARL,FRA,Manufacturing,1958-12-11,plastiques-morvan.example
+932,Groupe Lavignon Construction,FRA,Construction,1981-04-30,groupe-lavignon-construction.example
+933,Kuiper Clinic B.V.,NLD,Healthcare,1966-01-28,kuiper-clinic.example
+935,Caisse primaire Oise,FRA,Public administration,2009-04-04,caisse-primaire-oise.example
+938,Dufraisse & Langle SAS,FRA,Media,1955-03-18,dufraisse-langle.example
+940,Vanommeslaeghe & Pons SA,LUX,Transport and logistics,1957-10-16,vanommeslaeghe-pons.example
+941,Bascoul Soins SA,LUX,Healthcare,1986-07-24,bascoul-soins.example
+942,Conseil Wavre SA,BEL,Consulting,1999-07-31,conseil-wavre.example
+945,Stefani & Taoc SARL,FRA,Insurance,2017-06-30,stefani-taoc.example
+946,Fahrzeugbau Nyfeler AG,CHE,Automotive,1977-11-03,fahrzeugbau-nyfeler.example
+947,Mairie de Montpellier,FRA,Local government,1971-01-07,ville-montpellier2.example
+951,Informatica Napoli S.r.l.,ITA,IT services,1996-11-07,informatica-napoli.example
+952,Pharma Occitanie SARL,FRA,Pharmaceuticals,2004-03-12,pharma-occitanie.example
+954,Prineau Mutuelle Santé SAS,FRA,Mutual insurance,2011-03-16,prineau-mutuelle-sante.example
+958,Ville de Pyrénées,FRA,Local government,1969-02-02,ville-pyrenees.example
+963,Voyages Pitoiset SARL,FRA,Tourism,1964-10-30,voyages-pitoiset.example
+964,Éolien Scussel SAS,FRA,Energy,1973-06-06,eolien-scussel.example
+965,Lycée Tarn,FRA,Education,1984-09-07,lycee-tarn.example
+968,Travaux Publics Bauzou,FRA,Construction,1953-09-07,travaux-publics-bauzou.example
+969,Hurbain Prévoyance,BEL,Mutual insurance,1956-03-08,hurbain-prevoyance.example
+972,Nesenshon Réseaux SAS,FRA,Telecommunications,1983-01-22,nesenshon-reseaux.example
+973,Gonzalez & Picazos S.L.,ESP,Manufacturing,2010-05-27,gonzalez-picazos.example
+975,Lösungen Meile GmbH,DEU,Software publishing,1998-03-22,losungen-meile.example
+976,Vins Hanine,FRA,Food industry,1986-08-30,vins-hanine.example
+977,Routier Ducoup SA,FRA,Transport and logistics,1962-06-19,routier-ducoup.example
+978,Spedition Inn,CHE,Transport and logistics,1972-07-07,spedition-inn.example
+981,Ville de Normandie,FRA,Local government,2006-03-17,ville-normandie.example
+982,Direction départementale des territoires Saône,FRA,Public administration,2000-06-05,direction-departementale-territoires6.example
+984,Groupe Davidos & Quereux,FRA,Manufacturing,1951-01-19,groupe-davidos-quereux.example
+986,Weber Einzelhandel GmbH,DEU,Retail,1965-02-26,weber-einzelhandel.example
+987,Loisirs Delbos SAS,FRA,Tourism,1954-12-15,loisirs-delbos.example
+988,Servizi Fontana S.p.A.,ITA,Public administration,1998-07-06,servizi-fontana.example
+989,Distribution Schroyens SA,FRA,Retail,2002-09-19,distribution-schroyens.example
+990,Unternehmensberatung Joureau AG,CHE,Consulting,2017-08-12,unternehmensberatung-joureau.example
+992,Okanovic Bank GmbH,DEU,Banking,1983-04-27,okanovic-bank.example
+993,Agence régionale de santé Occitanie,FRA,Public administration,2010-07-24,agence-regionale-sante6.example
+994,Groupe Financement Nantes,FRA,Banking,1973-02-26,groupe-financement-nantes.example
+995,Affrètement Ragoust,FRA,Transport and logistics,1983-01-03,affretement-ragoust.example
+996,Direction départementale des territoires Argoat,FRA,Public administration,1953-04-25,direction-departementale-territoires7.example
+997,Industries Barbier SA,BEL,Manufacturing,2001-03-28,industries-barbier.example
+998,Pascuito & Leclercq SAS,FRA,Software publishing,1966-06-15,pascuito-leclercq.example
+999,Éolien Velay,FRA,Energy,1983-12-21,eolien-velay.example
+1000,Boissonnot Mécanique,FRA,Manufacturing,1976-09-01,boissonnot-mecanique.example
+1001,Systeme Moretti GmbH,DEU,Software publishing,1974-09-28,systeme-moretti.example
+1002,Hochbau Beffa,CHE,Construction,2012-09-04,hochbau-beffa.example
+1003,Groupe Énergies Luberon,FRA,Energy,1992-10-22,groupe-energies-luberon.example
+1004,Ingénierie Jeancoux SARL,FRA,Consulting,1992-09-09,ingenierie-jeancoux.example
+1005,Chopinet & Nemett SAS,FRA,Manufacturing,1985-12-15,chopinet-nemett.example
+1007,Intégration Cocq SAS,FRA,IT services,1964-08-23,integration-cocq.example
+1008,Pétrole Mauchamp EURL,FRA,Energy,1980-12-13,petrole-mauchamp.example
+1009,Remisz & Bianchet SA,BEL,Manufacturing,1980-08-17,remisz-bianchet.example
+1010,Brasserie Rouergue,FRA,Food industry,2011-09-13,brasserie-rouergue.example
+1011,Protection Porteron,FRA,Insurance,2015-03-22,protection-porteron.example
+1012,Radiologie Vexin SA,FRA,Healthcare,2001-03-20,radiologie-vexin.example
+1013,Hunsrück Strategie GmbH,DEU,Consulting,1961-11-28,hunsruck-strategie.example
+1014,Simon Comptoir SARL,FRA,Retail,2011-06-02,simon-comptoir.example
+1015,Feillault & Ugal SA,FRA,Banking,1965-10-11,feillault-ugal.example
+1016,Debieve & Douard SAS,FRA,IT services,1978-07-23,debieve-douard.example
+1017,Groupe Mobilité Mochez,FRA,Automotive,1953-12-02,groupe-mobilite-mochez.example
+1019,Académie Zamouri SA,LUX,Education,1987-10-08,academie-zamouri.example
+1020,Crédit Lancestre,FRA,Banking,1954-01-17,credit-lancestre.example
+1022,Informatique Loire SAS,FRA,IT services,1953-05-21,informatique-loire.example
+1023,Köhler Landesamt AG,DEU,Public administration,1972-04-16,kohler-landesamt.example
+1025,Mairie de Beauce,FRA,Local government,1965-06-06,ville-beauce.example
+1032,Biscuiterie Abdulov,BEL,Food industry,1958-06-16,biscuiterie-abdulov.example
+1034,Télécom Schielly SAS,FRA,Telecommunications,1964-06-24,telecom-schielly.example
+1035,Foureaux École SAS,FRA,Education,1995-11-03,foureaux-ecole.example
+1037,Grossiste Ribeaucourt SARL,FRA,Retail,1954-05-17,grossiste-ribeaucourt.example
+1038,Costruzioni D'Agostino S.p.A.,ITA,Construction,2002-09-19,costruzioni-agostino.example
+1040,Leray Finance SA,FRA,Banking,2013-01-18,leray-finance.example
+1043,Mutualité Forez SARL,FRA,Mutual insurance,1966-09-29,mutualite-forez.example
+1045,Fibre Langlais SARL,FRA,Telecommunications,1963-04-02,fibre-langlais.example
+1047,Systèmes d'information Belaud SAS,FRA,IT services,1955-11-09,systemes-information-belaud.example
+1048,Lo Verdi & Hugentobler,CHE,Retail,1999-06-02,lo-verdi-hugentobler.example
+1049,Voisembert & Cardinault SAS,FRA,IT services,1979-04-15,voisembert-cardinault.example
+1050,Campus Schmitz,BEL,Education,1972-11-10,campus-schmitz.example
+1052,Crédit Huge SAS,FRA,Banking,2002-07-17,credit-huge.example
+1053,Logistique Bresse SA,FRA,Transport and logistics,1973-05-04,logistique-bresse.example
+1054,Garantie Ardennes SARL,FRA,Insurance,1976-09-07,garantie-ardennes.example
+1055,École Lorraine SAS,FRA,Education,1975-09-11,ecole-lorraine.example
+1056,Stien Solaire SA,LUX,Energy,1969-10-20,stien-solaire.example
+1058,Caisse primaire Vercors,FRA,Public administration,1982-11-08,caisse-primaire-vercors.example
+1061,Gazarian Infogérance SARL,FRA,IT services,2015-04-02,gazarian-infogerance.example
+1063,Finance Poutrain,FRA,Banking,1978-04-30,finance-poutrain.example
+1064,Communauté d'agglomération de Moselle,FRA,Local government,1964-10-20,agglo-moselle.example
+1065,Audit Mevkic,CHE,Consulting,1953-05-27,audit-mevkic.example
+1066,Fonderie Grossmann SARL,FRA,Manufacturing,1988-07-18,fonderie-grossmann.example
+1067,Van Bever Prévoyance,FRA,Insurance,1950-11-15,bever-prevoyance.example
+1069,Agence régionale de santé Saône,FRA,Public administration,2013-11-04,agence-regionale-sante7.example
+1070,Faussat Commerce EURL,FRA,Retail,2007-05-05,faussat-commerce.example
+1071,Agence régionale de santé Picardie,FRA,Public administration,2012-10-06,agence-regionale-sante8.example
+1072,Desay & Audesson SA,FRA,Healthcare,1956-08-13,desay-audesson.example
+1074,Ingénierie Cotelle,FRA,Consulting,2015-12-18,ingenierie-cotelle.example
+1076,Commerce Torel,FRA,Retail,1971-05-09,commerce-torel.example
+1078,Cassel Coopérative agricole SA,FRA,Food industry,1966-02-21,cassel-cooperative-agricole.example
+1079,Conseil IT Duvillard,FRA,IT services,1974-12-26,conseil-it-duvillard.example
+1080,Groupe Lebegue & Bernollin,FRA,Construction,1989-03-15,groupe-lebegue-bernollin.example
+1082,Communauté d'agglomération de Champagne,FRA,Local government,1990-08-16,agglo-champagne.example
+1085,Crédit Boillat SARL,FRA,Banking,2006-01-23,credit-boillat.example
+1086,Équipementier Girardiere,FRA,Automotive,1983-11-03,equipementier-girardiere.example
+1087,Distribuzione Carbone S.r.l.,ITA,Retail,1993-12-29,distribuzione-carbone.example
+1088,Transport Ritz GmbH,CHE,Transport and logistics,2011-05-24,transport-ritz.example
+1089,Flin & Vallerie,FRA,Pharmaceuticals,1960-10-12,flin-vallerie.example
+1090,Ben Hariz Médias SAS,FRA,Media,1968-11-12,ben-hariz-medias.example
+1092,Communauté d'agglomération de Picardie,FRA,Local government,1976-09-29,agglo-picardie.example
+1093,Groupe Hypermarchés Corbières,FRA,Retail,1981-07-12,groupe-hypermarches-corbieres.example
+1096,Stadt Dresden,DEU,Local government,1984-11-14,stadt-dresden.example
+1098,Métallurgie Giacalone SA,FRA,Manufacturing,1991-10-05,metallurgie-giacalone.example
+1099,Diderich & Lajarretie SAS,FRA,Manufacturing,2017-07-27,diderich-lajarretie.example
+1100,Aciers Arellano SA,FRA,Manufacturing,1955-01-14,aciers-arellano.example
+1101,Solidarität Parati AG,CHE,Mutual insurance,2018-11-14,solidaritat-parati.example
+1102,Comune di Bolzano,ITA,Local government,2009-06-07,comune-bolzano.example
+1103,Vernhes Génie Civil SARL,FRA,Construction,1952-10-05,vernhes-genie-civil.example
+1104,Tourisme Dorveaux SA,FRA,Tourism,1967-11-14,tourisme-dorveaux.example
+1105,Idrizi & Stenvall AG,CHE,Retail,1998-03-30,idrizi-stenvall.example
+1106,Vins Jura SAS,FRA,Food industry,1964-12-08,vins-jura.example
+1107,Mécanique Forez SAS,FRA,Manufacturing,2017-08-14,mecanique-forez.example
+1108,Adiguzel & Rieumal SARL,FRA,Transport and logistics,1996-05-14,adiguzel-rieumal.example
+1109,Direction départementale des territoires Strasbourg,FRA,Public administration,1991-07-02,direction-departementale-territoires8.example
+1110,Expertise Chartreuse,FRA,Consulting,1997-06-26,expertise-chartreuse.example
+1111,Dreier & Sciboz AG,CHE,Insurance,1966-11-29,dreier-sciboz.example
+1112,Ladan Banque SAS,FRA,Banking,1996-04-17,ladan-banque.example
+1113,Pharma Bordeaux,FRA,Pharmaceuticals,1997-06-22,pharma-bordeaux.example
+1114,Office public de l'habitat Médoc,FRA,Public administration,1962-08-09,office-public-habitat9.example
+1115,Solutions Côte d'Opale SAS,FRA,Software publishing,1996-05-29,solutions-cote-opale.example
+1116,Assurances Meir SA,BEL,Insurance,2001-07-17,assurances-meir.example
+1119,Distribution Picardie SARL,FRA,Retail,1966-03-17,distribution-picardie.example
+1122,Magasins Caillet,FRA,Retail,1994-02-20,magasins-caillet.example
+1123,Mobilfunk Macquat,CHE,Telecommunications,1964-12-11,mobilfunk-macquat.example
+1124,Mimy Évasion EURL,FRA,Tourism,1954-05-06,mimy-evasion.example
+1125,Mancini & Colombo S.r.l.,ITA,Manufacturing,1994-11-02,mancini-colombo.example
+1126,Office public de l'habitat Périgord,FRA,Public administration,1974-11-23,office-public-habitat10.example
+1128,Fournier & Dozierre,FRA,Transport and logistics,2013-09-30,fournier-dozierre.example
+1130,Pignolet & Masounave,FRA,Construction,1995-05-14,pignolet-masounave.example
+1132,Amersfoort Wholesale B.V.,NLD,Retail,1974-08-15,amersfoort-wholesale.example
+1133,Systemhaus Maier AG,CHE,IT services,2001-04-26,systemhaus-maier.example
+1134,Négoce Ajazi SA,CHE,Retail,1950-04-15,negoce-ajazi.example
+1135,Demnati Comptoir SAS,FRA,Retail,2002-06-17,demnati-comptoir.example
+1139,Legeard Software SAS,FRA,Software publishing,2003-07-25,legeard-software.example
+1141,Électricité Albessard,FRA,Energy,1956-10-23,electricite-albessard.example
+1142,Audigand Mécanique SARL,FRA,Manufacturing,2004-04-13,audigand-mecanique.example
+1145,Dorchain & Matime SA,FRA,Manufacturing,1965-06-17,dorchain-matime.example
+1146,Digital Prunier SARL,FRA,Software publishing,1990-08-20,digital-prunier.example
+1147,Medien Rekade,CHE,Media,1994-06-07,medien-rekade.example
+1149,Tambareau Audiovisuel,FRA,Media,1964-02-22,tambareau-audiovisuel.example
+1152,Prévoyance Reydet SARL,FRA,Insurance,2013-09-09,prevoyance-reydet.example
+1153,Akhoun Académie,FRA,Education,1967-08-16,akhoun-academie.example
+1155,Groupe Billaud Prévoyance,FRA,Insurance,1974-10-28,groupe-billaud-prevoyance.example
+1157,Express Van den Heuvel SA,BEL,Transport and logistics,2011-03-20,express-heuvel.example
+1158,Groupe Prévoyance Lille,FRA,Insurance,2002-04-01,groupe-prevoyance-lille.example
+1159,Groupe Dherissard & Banchereau,FRA,Manufacturing,1962-10-20,groupe-dherissard-banchereau.example
+1160,Faussard Services numériques SA,FRA,IT services,1950-03-14,faussard-services-numeriques.example
+1161,Groupe Sakho Épargne,FRA,Banking,2002-02-23,groupe-sakho-epargne.example
+1162,Bizard Pharmaceutique SA,FRA,Pharmaceuticals,1955-06-26,bizard-pharmaceutique.example
+1163,Pharma Hartkamp SA,CHE,Pharmaceuticals,1976-11-23,pharma-hartkamp.example
+1164,Infogérance Luberon SARL,FRA,IT services,2001-08-23,infogerance-luberon.example
+1166,Garage Nevraumont,FRA,Automotive,2016-03-22,garage-nevraumont.example
+1168,Énergies Suppo SAS,FRA,Energy,1988-12-31,energies-suppo.example
+1170,Groupe Transports Nourrissat,FRA,Transport and logistics,1988-07-23,groupe-transports-nourrissat.example
+1171,Pharma Landouzi,FRA,Pharmaceuticals,1952-06-09,pharma-landouzi.example
+1172,Groupe Mécanique Sarete,FRA,Manufacturing,2005-11-16,groupe-mecanique-sarete.example
+1173,Connan & Giroult SA,FRA,Construction,1993-05-07,connan-giroult.example
+1174,Informatica Barone S.r.l.,ITA,IT services,1960-01-17,informatica-barone.example
+1175,Clinique Bourgogne SAS,FRA,Healthcare,1958-04-15,clinique-bourgogne.example
+1176,Commune de Cervin,CHE,Local government,1951-06-27,commune-cervin.example
+1178,Conseil départemental de Lille,FRA,Local government,1982-02-15,departement-lille.example
+1179,Équipements Amourous EURL,FRA,Manufacturing,2016-06-25,equipements-amourous.example
+1182,Audit Chartreuse SAS,FRA,Consulting,1975-02-12,audit-chartreuse.example
+1184,Rossi & Martino S.r.l.,ITA,Automotive,1950-05-16,rossi-martino.example
+1185,Schutz Schmid SE,DEU,Insurance,1951-10-27,schutz-schmid.example
+1186,Numérique Occitanie,FRA,Software publishing,1951-03-15,numerique-occitanie.example
+1188,Commune de Echternach,LUX,Local government,1985-01-08,commune-echternach.example
+1189,Felicite & Vilarinho,FRA,Manufacturing,1993-05-13,felicite-vilarinho.example
+1190,De Pessemier & Beuten SA,BEL,Tourism,1967-11-18,pessemier-beuten.example
+1191,Clinique Clerice SA,FRA,Healthcare,1998-05-05,clinique-clerice.example
+1192,Meschini Aciers SARL,FRA,Manufacturing,2015-03-06,meschini-aciers.example
+1193,Solaire Lukavackic,CHE,Energy,2017-04-15,solaire-lukavackic.example
+1194,Métallurgie Decolon SA,BEL,Manufacturing,2009-12-10,metallurgie-decolon.example
+1195,Conseil départemental de Roussillon,FRA,Local government,1961-06-07,departement-roussillon.example
+1196,Märkte Schröder GmbH,DEU,Retail,1958-02-19,markte-schroder.example
+1197,Usinage Charente SARL,FRA,Manufacturing,1959-03-07,usinage-charente.example
+1198,Groupe Laiterie Wasson,FRA,Food industry,2011-06-24,groupe-laiterie-wasson.example
+1199,Logiciels Dordogne,FRA,Software publishing,1977-08-23,logiciels-dordogne.example
+1200,Solaire Dauphiné SA,FRA,Energy,2010-05-19,solaire-dauphine.example
+1202,Production Marcellesi SA,FRA,Media,1959-08-17,production-marcellesi.example
+1204,Pharmaceutique Contern SA,LUX,Pharmaceuticals,1976-09-07,pharmaceutique-contern.example
+1205,Résidences Cordovado,FRA,Real estate,1964-06-21,residences-cordovado.example
+1206,Centre de formation Camargue,FRA,Education,1968-09-25,centre-formation-camargue.example
+1207,Le Thiec Data SARL,FRA,Software publishing,2000-07-22,thiec-data.example
+1211,Biscuiterie Le Bihan,FRA,Food industry,2008-09-12,biscuiterie-bihan.example
+1212,Groupe Aernouts & Melchor,FRA,Energy,1981-03-30,groupe-aernouts-melchor.example
+1213,Müller & Albrecht SA,LUX,Retail,1953-07-12,muller-albrecht.example
+1214,Kinnoo & Arretche SA,FRA,Banking,2008-10-11,kinnoo-arretche.example
+1216,Casajuana & Paurd,FRA,Food industry,1956-05-02,casajuana-paurd.example
+1218,Platz Services numériques SAS,FRA,IT services,1964-04-19,platz-services-numeriques.example
+1219,Cuadra Pharmaceutique,FRA,Pharmaceuticals,1952-01-05,cuadra-pharmaceutique.example
+1220,Leimgruber & Collet,CHE,Real estate,1992-04-07,leimgruber-collet.example
+1221,Agence régionale de santé Seine,FRA,Public administration,1972-02-21,agence-regionale-sante9.example
+1224,Mairie de Dordogne,FRA,Local government,2007-08-07,ville-dordogne.example
+1226,Groupe Aciers Gorlier,FRA,Manufacturing,1989-01-09,groupe-aciers-gorlier.example
+1228,Énergies Belfiori SA,CHE,Energy,2018-08-15,energies-belfiori.example
+1229,Ville de Limousin,FRA,Local government,2013-01-13,ville-limousin2.example
+1230,Éolien Forez,FRA,Energy,2014-08-29,eolien-forez.example
+1231,Audiovisuel Reveillet,FRA,Media,2010-02-08,audiovisuel-reveillet.example
+1232,Commerce Adiyaman SARL,FRA,Retail,1978-06-15,commerce-adiyaman.example
+1233,Mutualité Ginaldi SRL,BEL,Mutual insurance,1980-07-07,mutualite-ginaldi.example
+1234,Rodriguez Gaz SAS,FRA,Energy,1969-10-09,rodriguez-gaz.example
+1235,Autohaus Verzola GmbH,CHE,Automotive,1963-01-20,autohaus-verzola.example
+1237,Grossiste de Groot Sàrl,CHE,Retail,1967-09-30,grossiste-groot.example
+1238,Courtage Auvergne,FRA,Insurance,1965-01-19,courtage-auvergne.example
+1239,Software Gharib,BEL,Software publishing,1958-12-22,software-gharib.example
+1241,Construction Luberon,FRA,Construction,1986-05-27,construction-luberon.example
+1244,Agence régionale de santé Vendée,FRA,Public administration,2012-09-19,agence-regionale-sante10.example
+1246,Épargne Gascogne SARL,FRA,Banking,1968-09-12,epargne-gascogne.example
+1247,Pharma Gourgues SA,FRA,Pharmaceuticals,1986-04-27,pharma-gourgues.example
+1248,Conseil IT Val de Loire SAS,FRA,IT services,1964-01-13,conseil-it-val.example
+1251,Logiciels Hautes Fagnes SA,BEL,Software publishing,1971-04-26,logiciels-hautes-fagnes.example
+1252,Grundbesitz Iwan AG,CHE,Real estate,2015-04-06,grundbesitz-iwan.example
+1253,Groupe Gouzerh & Matten,FRA,Telecommunications,1998-12-05,groupe-gouzerh-matten.example
+1255,Cipolletti & Prößler SA,CHE,Consulting,1969-06-20,cipolletti-proler.example
+1256,Caisse primaire Dordogne,FRA,Public administration,2017-01-16,caisse-primaire-dordogne.example
+1257,Jaulneau Solaire SA,FRA,Energy,1987-12-24,jaulneau-solaire.example
+1259,Ingénierie Berry SARL,FRA,Consulting,1957-01-19,ingenierie-berry.example
+1260,Paccoud Promotion,FRA,Real estate,1950-09-07,paccoud-promotion.example
+1261,Métallurgie Verleye SAS,FRA,Manufacturing,1974-12-21,metallurgie-verleye.example
+1262,Bouguedra & Frayssinet SARL,FRA,Banking,1994-09-19,bouguedra-frayssinet.example
+1263,Stadt Brandenburg,DEU,Local government,1957-06-08,stadt-brandenburg.example
+1266,Groupe Bernard Concession,FRA,Automotive,1987-11-16,groupe-bernard-concession.example
+1269,Groupe Biosciences Chevallereau,FRA,Pharmaceuticals,1986-06-29,groupe-biosciences-chevallereau.example
+1270,Mutuelle Briatte SA,FRA,Mutual insurance,1992-03-22,mutuelle-briatte.example
+1271,Comptoir Algoet SRL,BEL,Retail,1998-06-25,comptoir-algoet.example
+1273,Travaux Publics Roussillon,FRA,Construction,1974-02-04,travaux-publics-roussillon.example
+1274,Stadt Mosel,DEU,Local government,1990-10-23,stadt-mosel.example
+1276,Agence régionale de santé Forez,FRA,Public administration,1987-08-02,agence-regionale-sante11.example
+1277,Médias Durance SAS,FRA,Media,1959-05-07,medias-durance.example
+1278,Équipementier Kriegel SAS,FRA,Automotive,2013-02-22,equipementier-kriegel.example
+1279,Vermögen Jura AG,CHE,Banking,1991-03-30,vermogen-jura.example
+1280,Conseil Dinot SAS,FRA,Consulting,1955-07-22,conseil-dinot.example
+1281,Digital Ural SA,BEL,Software publishing,1963-10-31,digital-ural.example
+1282,IT-Beratung Messikommer AG,CHE,IT services,1961-12-02,it-beratung-messikommer.example
+1283,Caisse Räss Sàrl,CHE,Banking,1965-03-17,caisse-rass.example
+1284,Unternehmensberatung Wagner GmbH,DEU,Consulting,1998-03-19,unternehmensberatung-wagner.example
+1285,Groupe Commerce Pilleux,FRA,Retail,2018-02-12,groupe-commerce-pilleux.example
+1287,Schäfer & Köhler GmbH,DEU,Public administration,1971-07-04,schafer-kohler.example
+1288,Medizin Siepmann GmbH,DEU,Healthcare,2013-10-04,medizin-siepmann.example
+1289,Marguin Fret SAS,FRA,Transport and logistics,1978-01-11,marguin-fret.example
+1290,Communauté d'agglomération de Bretagne,FRA,Local government,1976-10-08,agglo-bretagne.example
+1293,Éditions Finistère SA,FRA,Media,1983-11-27,editions-finistere.example
+1294,Systèmes d'information Périgord,FRA,IT services,1995-02-24,systemes-information-perigord.example
+1295,Tullet & Saint-Dizier SARL,FRA,IT services,1963-02-11,tullet-saint-dizier.example
+1296,Vins Leygues SA,FRA,Food industry,1957-07-26,vins-leygues.example
+1297,Braud Express SAS,FRA,Transport and logistics,1968-08-04,braud-express.example
+1298,Leclercq & Legault SA,FRA,Media,1983-11-26,leclercq-legault.example
+1299,Labroche Services numériques SAS,FRA,IT services,2006-01-20,labroche-services-numeriques.example
+1300,Sentis & Burger SARL,FRA,Food industry,1985-06-29,sentis-burger.example
+1301,Assurances Fusi SA,FRA,Insurance,1974-09-06,assurances-fusi.example
+1303,Patrimoine Trégor SARL,FRA,Banking,1952-05-09,patrimoine-tregor.example
+1304,Distribution Garonne SAS,FRA,Retail,1982-02-19,distribution-garonne.example
+1305,Conseil IT Ryckebosch SAS,FRA,IT services,1985-10-01,conseil-it-ryckebosch.example
+1307,Perlaut Magasins SARL,FRA,Retail,1966-12-23,perlaut-magasins.example
+1308,Groupe Monopoli Réseaux,FRA,Telecommunications,1987-08-02,groupe-monopoli-reseaux.example
+1309,Agence régionale de santé Quercy,FRA,Public administration,1964-07-06,agence-regionale-sante12.example
+1310,Promotion Ciret SAS,FRA,Construction,1973-02-18,promotion-ciret.example
+1311,Netze Vogel GmbH & Co. KG,DEU,Telecommunications,1972-08-06,netze-vogel.example
+1312,Mairie de Vendée,FRA,Local government,1999-12-08,ville-vendee2.example
+1315,Cloud Occitanie EURL,FRA,Software publishing,2004-10-05,cloud-occitanie.example
+1316,Travaux Publics Jussien SARL,FRA,Construction,1983-02-05,travaux-publics-jussien.example
+1317,Industries Gaultier,FRA,Manufacturing,2010-04-09,industries-gaultier.example
+1318,Schäfer & Lang GmbH,DEU,Consulting,2010-02-09,schafer-lang.example
+1319,Gaspari Radio SAS,FRA,Media,2003-12-23,gaspari-radio.example
+1321,Cock Travaux Publics SAS,FRA,Construction,2005-09-29,cock-travaux-publics.example
+1323,Herrmann & Schmitz SA,LUX,Retail,1993-03-09,herrmann-schmitz.example
+1324,Beylat Brasserie,FRA,Food industry,1980-06-04,beylat-brasserie.example
+1326,Systèmes Brancard SA,FRA,Software publishing,1965-03-19,systemes-brancard.example
+1328,Négoce Conforto SA,FRA,Retail,2005-01-03,negoce-conforto.example
+1330,Courtage Oise SAS,FRA,Insurance,2012-03-09,courtage-oise.example
+1331,Distribution Van Beek B.V.,NLD,Retail,1977-02-11,distribution-beek.example
+1334,Merchez Brasserie,FRA,Food industry,1954-05-19,merchez-brasserie.example
+1335,Médical Cornec SARL,FRA,Healthcare,1971-01-26,medical-cornec.example
+1336,Francisod Hertzien,FRA,Telecommunications,1952-03-07,francisod-hertzien.example
+1337,Effosse Systèmes d'information SAS,FRA,IT services,1968-02-08,effosse-systemes-information.example
+1339,Électricité Cotentin SARL,FRA,Energy,1969-12-07,electricite-cotentin.example
+1340,Protection Hollanders Sàrl,LUX,Insurance,1954-10-15,protection-hollanders.example
+1341,Groupe Presse Arnold,FRA,Media,1992-01-04,groupe-presse-arnold.example
+1342,Groupe Promotion Lelu,FRA,Construction,1964-05-23,groupe-promotion-lelu.example
+1344,Assurances Schlotterbeck SARL,FRA,Insurance,1951-03-04,assurances-schlotterbeck.example
+1345,Groupe Biosciences Plantin,FRA,Pharmaceuticals,1962-07-13,groupe-biosciences-plantin.example
+1346,Fonderie Trégor SAS,FRA,Manufacturing,2001-07-24,fonderie-tregor.example
+1347,Vorsorge Gratz,CHE,Insurance,1987-01-08,vorsorge-gratz.example
+1349,Lacombe & Jamain,FRA,Food industry,2017-08-14,lacombe-jamain.example
+1354,Mobile Annee SAS,FRA,Telecommunications,2015-03-07,mobile-annee.example
+1355,Fret Cazenave SA,FRA,Transport and logistics,1978-10-01,fret-cazenave.example
+1356,Favrel Plastiques,FRA,Manufacturing,2018-11-28,favrel-plastiques.example
+1357,Direction départementale des territoires Toulouse,FRA,Public administration,1973-03-01,direction-departementale-territoires9.example
+1359,Éolien Reynders SA,LUX,Energy,2012-07-26,eolien-reynders.example
+1360,Protection Ardennes,FRA,Insurance,1955-11-12,protection-ardennes.example
+1362,Informatique Poyet SAS,FRA,IT services,2001-02-27,informatique-poyet.example
+1363,Schmidt Datensysteme GmbH,DEU,Software publishing,1976-06-06,schmidt-datensysteme.example
+1365,Biscuiterie Vosges,FRA,Food industry,1975-02-23,biscuiterie-vosges.example
+1366,Badie Génie Civil EURL,FRA,Construction,2006-01-14,badie-genie-civil.example
+1367,Conseil IT Meriah,FRA,IT services,1967-01-11,conseil-it-meriah.example
+1368,Groupe Stratégie Ardèche,FRA,Consulting,1961-01-14,groupe-strategie-ardeche.example
+1369,Chansat Fibre SA,FRA,Telecommunications,2000-07-28,chansat-fibre.example
+1370,Stadt Lüneburger Heide,DEU,Local government,1979-02-08,stadt-luneburger-heide.example
+1372,Vial Informatique EURL,FRA,IT services,1977-04-26,vial-informatique.example
+1374,Patfoort Conserverie SAS,FRA,Food industry,2013-12-14,patfoort-conserverie.example
+1375,Hochschule Aargau,CHE,Education,2017-12-26,hochschule-aargau.example
+1376,Groupe Defosses & Belgio,FRA,Energy,1981-04-04,groupe-defosses-belgio.example
+1377,Surlemont & Desplebin SAS,FRA,Software publishing,2017-04-01,surlemont-desplebin.example
+1379,Kurth & Jung GmbH,DEU,Transport and logistics,2011-08-31,kurth-jung.example
+1380,Conseil départemental de Marne,FRA,Local government,1989-02-25,departement-marne.example
+1383,Groupe Rouyer Radio,FRA,Media,1982-05-03,groupe-rouyer-radio.example
+1384,Rateaud & Renia SARL,FRA,Manufacturing,1978-01-11,rateaud-renia.example
+1385,Maschinenbau Palaia GmbH,CHE,Manufacturing,1996-02-07,maschinenbau-palaia.example
+1386,Burglin Université SAS,FRA,Education,1979-11-14,burglin-universite.example
+1388,Conseil départemental de Loire,FRA,Local government,2004-11-29,departement-loire.example
+1389,Wagner & Schmitz SE,DEU,Construction,1967-02-02,wagner-schmitz.example
+1390,Caisse primaire Rhône,FRA,Public administration,2014-02-23,caisse-primaire-rhone.example
+1391,Lüneburger Heide Vorsorge GmbH,DEU,Insurance,2014-11-09,luneburger-heide-vorsorge.example
+1392,Partenaires Touraine SA,FRA,Consulting,1982-09-03,partenaires-touraine.example
+1394,Patrimoine Marais EURL,FRA,Banking,1978-01-13,patrimoine-marais.example
+1395,Plastiques Langella SARL,FRA,Manufacturing,1992-05-30,plastiques-langella.example
+1396,Saint-Jean & Chevrot,FRA,Food industry,1987-06-13,saint-jean-chevrot.example
+1397,Touam Prévoyance SAS,FRA,Mutual insurance,1989-01-23,touam-prevoyance.example
+1399,Conseil départemental de Côte d'Opale,FRA,Local government,1959-12-01,departement-cote-opale.example
+1400,Financement Forand SARL,FRA,Banking,2000-09-22,financement-forand.example
+1401,Intégration Armor,FRA,IT services,2017-11-06,integration-armor.example
+1404,Agence régionale de santé Durance,FRA,Public administration,1954-08-10,agence-regionale-sante13.example
+1405,Martin Équipements SARL,FRA,Manufacturing,2003-10-25,martin-equipements.example
+1408,Dul & Catikoglu SA,CHE,Software publishing,1982-02-07,dul-catikoglu.example
+1409,Stahl Fribourg,CHE,Manufacturing,1956-12-20,stahl-fribourg.example
+1410,Pharmaceutique Gueny SA,FRA,Pharmaceuticals,2001-05-19,pharmaceutique-gueny.example
+1412,Boishardy & Berthout,FRA,Manufacturing,2014-02-12,boishardy-berthout.example
+1414,Hydroélectricité Rouergue SAS,FRA,Energy,1951-06-03,hydroelectricite-rouergue.example
+1415,Conseil départemental de Vosges,FRA,Local government,1953-06-28,departement-vosges.example
+1416,Éditions Otzenberger EURL,FRA,Media,1979-07-23,editions-otzenberger.example
+1417,Ville de Morvan,FRA,Local government,2006-07-09,ville-morvan.example
+1418,Mutua Farina S.p.A.,ITA,Mutual insurance,1991-12-19,mutua-farina.example
+1419,Office public de l'habitat Bourgogne,FRA,Public administration,1955-06-08,office-public-habitat12.example
+1421,Treguer & Angheben SAS,FRA,Energy,1951-04-10,treguer-angheben.example
+1422,Thérapeutique Côte d'Opale SAS,FRA,Pharmaceuticals,1956-12-19,therapeutique-cote-opale.example
+1423,Groupe Zanolino & Chalin,FRA,Banking,2016-05-16,groupe-zanolino-chalin.example
+1424,Grossiste Argoat SARL,FRA,Retail,2005-09-15,grossiste-argoat.example
+1425,Magasins Janiere SAS,FRA,Retail,1971-06-01,magasins-janiere.example
+1427,Immobiliare Friuli S.p.A.,ITA,Real estate,2014-11-02,immobiliare-friuli.example
+1429,Agence régionale de santé Estérel,FRA,Public administration,1970-12-10,agence-regionale-sante14.example
+1431,Industries Mery SA,FRA,Manufacturing,1997-03-03,industries-mery2.example
+1432,Académie Bretagne,FRA,Education,1959-06-22,academie-bretagne.example
+1435,Magasins Migne,FRA,Retail,1991-01-09,magasins-migne.example
+1437,Islami Engineering B.V.,NLD,Manufacturing,1997-07-09,islami-engineering.example
+1439,Maiziere Mutuelle Santé,FRA,Mutual insurance,1989-02-22,maiziere-mutuelle-sante.example
+1441,Services numériques Gnarra SA,CHE,IT services,1956-12-05,services-numeriques-gnarra.example
+1444,Plastiques Breteche SA,FRA,Manufacturing,1968-01-07,plastiques-breteche.example
+1445,Éolien Vosges,FRA,Energy,1986-02-02,eolien-vosges.example
+1446,Office public de l'habitat Strasbourg,FRA,Public administration,2013-12-25,office-public-habitat13.example
+1447,Astoin & Villain,FRA,Manufacturing,2018-07-27,astoin-villain.example
+1448,Lambay Caisse,FRA,Banking,2002-06-11,lambay-caisse.example
+1449,Immobiliare De Luca S.p.A.,ITA,Real estate,1978-10-17,immobiliare-luca.example
+1450,Mairie de Lyonnais,FRA,Local government,1964-09-06,ville-lyonnais.example
+1451,Groupe Roses Technologies,FRA,IT services,1982-03-05,groupe-roses-technologies.example
+1452,Banca Pellegrini S.r.l.,ITA,Banking,1971-03-01,banca-pellegrini.example
+1453,Bonhommeau & Schied SARL,FRA,Construction,1983-04-17,bonhommeau-schied.example
+1454,Couloir Pharma SARL,FRA,Pharmaceuticals,1982-05-30,couloir-pharma.example
+1455,Didierjean Magasins,FRA,Retail,2009-12-17,didierjean-magasins.example
+1456,Direction départementale des territoires Brie,FRA,Public administration,2011-08-06,direction-departementale-territoires10.example
+1457,Distribution Verstraelen B.V.,NLD,Retail,1959-04-05,distribution-verstraelen.example
+1458,Cloud Demade SA,FRA,Software publishing,2015-08-12,cloud-demade.example
+1459,Direction départementale des territoires Vosges,FRA,Public administration,2004-10-18,direction-departementale-territoires11.example
+1460,Groupe Expertise Krost,FRA,Consulting,1956-05-15,groupe-expertise-krost.example
+1462,Garantie Forest,BEL,Insurance,1950-01-16,garantie-forest.example
+1463,Leleve & Delagoutte SAS,FRA,Manufacturing,1983-05-05,leleve-delagoutte.example
+1464,Métallurgie Garcia SAS,FRA,Manufacturing,2007-01-14,metallurgie-garcia.example
+1465,Hartmann Bundesamt GmbH,DEU,Public administration,2001-11-21,hartmann-bundesamt.example
+1466,Thérapeutique Cévennes SAS,FRA,Pharmaceuticals,2002-06-04,therapeutique-cevennes.example
+1467,Trasporti Caruso S.r.l.,ITA,Transport and logistics,1973-07-01,trasporti-caruso.example
+1468,Di Stefano & Costa S.p.A.,ITA,Pharmaceuticals,1963-11-29,stefano-costa.example
+1470,Sonny Centre Hospitalier,FRA,Healthcare,1954-06-28,sonny-centre-hospitalier.example
+1471,Bakhshi & Popadiuc,BEL,Banking,1972-02-13,bakhshi-popadiuc.example
+1472,Vlissingen Broadcasting B.V.,NLD,Media,1984-08-28,vlissingen-broadcasting.example
+1473,Systemhaus Schmitz SE,DEU,IT services,1992-10-22,systemhaus-schmitz.example
+1474,Elmosnino & Froment SAS,FRA,Retail,1987-07-21,elmosnino-froment.example
+1475,Mairie de Camargue,FRA,Local government,1992-03-13,ville-camargue.example
+1476,Grossiste Vezin SAS,FRA,Retail,1961-04-05,grossiste-vezin.example
+1477,Groupe Hypermarchés Gelle,FRA,Retail,1977-10-12,groupe-hypermarches-gelle.example
+1478,Bouvet Vins EURL,FRA,Food industry,1972-03-11,bouvet-vins.example
+1479,Caisse primaire Adour,FRA,Public administration,2003-01-31,caisse-primaire-adour.example
+1480,Mécanique Charente,FRA,Manufacturing,1976-06-04,mecanique-charente.example
+1481,Aujogues Dit Baron Voyages SARL,FRA,Tourism,1968-10-14,aujogues-dit-baron.example
+1484,Wohnbau Häring AG,CHE,Real estate,1976-12-15,wohnbau-haring.example
+1486,Groupe Radiologie Cuvelle,FRA,Healthcare,2012-03-23,groupe-radiologie-cuvelle.example
+1489,Lariche & Verley,FRA,IT services,1960-07-10,lariche-verley.example
+1490,Groupe Polyclinique Bourrachot,FRA,Healthcare,2015-11-06,groupe-polyclinique-bourrachot.example
+1491,Aubrit & Le Bohec SA,FRA,Telecommunications,1976-11-20,aubrit-bohec.example
+1492,Université Cordes SA,CHE,Education,1972-02-16,universite-cordes.example
+1493,Groupe Pétrole Arif,FRA,Energy,2009-12-09,groupe-petrole-arif.example
+1495,Financement Royer,FRA,Banking,1959-09-09,financement-royer.example
+1499,Informatique Goblet,FRA,IT services,1982-07-04,informatique-goblet.example
+1500,Comune di Monte Bianco,ITA,Local government,2016-03-20,comune-monte-bianco.example
+1504,Riols Télécom SA,FRA,Telecommunications,2002-08-29,riols-telecom.example
+1506,Assistance Cabedoche,FRA,Insurance,1957-11-30,assistance-cabedoche.example
+1507,Laiterie Gramat SAS,FRA,Food industry,1980-06-23,laiterie-gramat.example
+1508,Messagerie Picardie SARL,FRA,Transport and logistics,1976-08-28,messagerie-picardie.example
+1509,Tigier Métallurgie,FRA,Manufacturing,1995-06-14,tigier-metallurgie.example
+1511,Stadt Aargau,CHE,Local government,1954-01-31,stadt-aargau.example
+1513,Travaux Publics Vanwalscappel SAS,FRA,Construction,2004-03-03,travaux-publics-vanwalscappel.example
+1514,Commune de Rigi,CHE,Local government,1965-11-22,commune-rigi.example
+1515,Groupe Delaygue Conserverie,FRA,Food industry,1973-07-21,groupe-delaygue-conserverie.example
+1516,Médias Gautier,FRA,Media,2008-11-05,medias-gautier.example
+1517,Levecq Hydroélectricité SAS,FRA,Energy,1984-10-20,levecq-hydroelectricite.example
+1520,Groupe Services numériques Hovart,FRA,IT services,1961-07-21,groupe-services-numeriques.example
+1521,Narayanan Cloud SE,DEU,Software publishing,1960-05-26,narayanan-cloud.example
+1522,Foncière Lanternat SAS,FRA,Real estate,1957-11-13,fonciere-lanternat.example
+1523,Mairie de Strasbourg,FRA,Local government,1963-04-15,ville-strasbourg.example
+1525,Réseaux Lesage SA,FRA,Telecommunications,1988-09-21,reseaux-lesage.example
+1526,Alimentari Coppola S.r.l.,ITA,Food industry,2001-01-17,alimentari-coppola.example
+1528,Automobiles Son SAS,FRA,Automotive,2007-01-31,automobiles-son.example
+1529,Baussart & Bagot SA,FRA,Software publishing,2013-05-15,baussart-bagot.example
+1532,Hattu Bâtiment SAS,FRA,Construction,1971-10-01,hattu-batiment.example
+1533,Hue & Grossias SAS,FRA,Retail,1962-08-05,hue-grossias.example
+1534,Araye & Betoul,FRA,Insurance,2015-09-01,araye-betoul.example
+1536,Conseil départemental de Auvergne,FRA,Local government,2015-06-28,departement-auvergne.example
+1538,Ortega Génie Civil SARL,FRA,Construction,1972-03-16,ortega-genie-civil.example
+1540,Courtage Isère SARL,FRA,Insurance,1998-07-04,courtage-isere.example
+1541,Gaz Moustatif,BEL,Energy,1951-01-16,gaz-moustatif.example
+1542,Ducrocq Plastiques SCOP,FRA,Manufacturing,1991-07-26,ducrocq-plastiques.example
+1543,Saint-Chely & Nelain SAS,FRA,Manufacturing,1988-12-24,saint-chely-nelain.example
+1544,Kredit Winterthur,CHE,Banking,1992-11-12,kredit-winterthur.example
+1545,Travaux Publics Dordogne,FRA,Construction,1974-01-08,travaux-publics-dordogne.example
+1546,Becker Datentechnik GmbH & Co. KG,DEU,IT services,1980-06-11,becker-datentechnik.example
+1549,Pétrole Dendene SARL,FRA,Energy,1994-01-14,petrole-dendene.example
+1550,Van Meerhaeghe Équipements SA,FRA,Manufacturing,1989-09-24,meerhaeghe-equipements.example
+1551,Porte-Laborde Travaux Publics SAS,FRA,Construction,2008-08-24,porte-laborde-travaux.example
+1552,Soins Lot,FRA,Healthcare,1955-09-08,soins-lot.example
+1553,Crédit Babel,CHE,Banking,2016-02-15,credit-babel.example
+1554,Buchholtzer & Le Lohe SAS,FRA,Banking,1989-08-31,buchholtzer-lohe.example
+1555,Ville de Vosges,FRA,Local government,1952-02-20,ville-vosges.example
+1556,Mobilité Taschet,FRA,Automotive,2015-01-03,mobilite-taschet.example
+1562,City of Arnhem,NLD,Local government,1984-05-05,city-arnhem.example
+1564,Entraide Vilpont,FRA,Mutual insurance,2008-12-10,entraide-vilpont.example
+1565,Trachsler Werbung GmbH,DEU,Media,1954-03-16,trachsler-werbung.example
+1566,Goby Messagerie,FRA,Transport and logistics,1983-07-17,goby-messagerie.example
+1567,Résidences Monterrat EURL,FRA,Real estate,1991-07-26,residences-monterrat.example
+1568,Hydroélectricité Cornouaille,FRA,Energy,2016-07-29,hydroelectricite-cornouaille.example
+1570,Diguet & Picasse,FRA,Banking,2013-12-26,diguet-picasse.example
+1571,Consultants Lascombe SA,FRA,Consulting,1972-01-16,consultants-lascombe.example
+1572,Coopérative agricole Cadillac,FRA,Food industry,2002-07-02,cooperative-agricole-cadillac.example
+1573,Commune de Molenbeek,BEL,Local government,2007-04-30,commune-molenbeek.example
+1574,Baffreau & Garaix SARL,FRA,Food industry,1973-03-12,baffreau-garaix.example
+1575,Ville de Lille,FRA,Local government,1965-09-28,ville-lille.example
+1577,Protection Ait Saidi SARL,FRA,Insurance,1966-08-29,protection-ait-saidi.example
+1579,Office public de l'habitat Adour,FRA,Public administration,1975-10-02,office-public-habitat14.example
+1580,Négoce Trimbur SARL,FRA,Retail,1990-07-23,negoce-trimbur.example
+1582,Audit Colin,FRA,Consulting,1952-02-24,audit-colin.example
+1583,Consulenze Bergamo S.r.l.,ITA,Consulting,2009-05-29,consulenze-bergamo.example
+1584,Krause & Frank SA,LUX,Software publishing,2006-01-26,krause-frank.example
+1586,Fonderie Azzam SARL,FRA,Manufacturing,1991-02-20,fonderie-azzam.example
+1587,Fischer Spedition GmbH,DEU,Transport and logistics,1960-08-03,fischer-spedition.example
+1588,Lochet Infogérance,FRA,IT services,2013-12-21,lochet-infogerance.example
+1589,Fonderie Vahe,FRA,Manufacturing,1973-01-11,fonderie-vahe.example
+1591,Express Vandenbroucke SA,FRA,Transport and logistics,1963-12-12,express-vandenbroucke.example
+1592,Wohnbau Vitetta AG,CHE,Real estate,1954-11-26,wohnbau-vitetta.example
+1593,Conseil départemental de Savoie,FRA,Local government,2000-01-04,departement-savoie.example
+1594,Crédit Yousuf,CHE,Banking,1959-06-11,credit-yousuf.example
+1595,Beratung Zampedri AG,CHE,Consulting,1950-10-16,beratung-zampedri.example
+1596,Bank Schmitz GmbH,DEU,Banking,1982-09-01,bank-schmitz.example
+1597,Ginet Crédit,FRA,Banking,1955-12-16,ginet-credit.example
+1598,Office public de l'habitat Rennes,FRA,Public administration,1951-06-11,office-public-habitat15.example
+1599,Lagerhaus Fazlioski,CHE,Transport and logistics,1955-11-26,lagerhaus-fazlioski.example
+1600,Greboval Équipements EURL,FRA,Manufacturing,1991-06-03,greboval-equipements.example
+1602,Biscuiterie Montpellier SAS,FRA,Food industry,1981-05-22,biscuiterie-montpellier.example
+1603,Engineering Visser B.V.,NLD,Manufacturing,1985-09-09,engineering-visser.example
+1606,Grossiste Simon SAS,FRA,Retail,2016-10-08,grossiste-simon.example
+1608,Communauté d'agglomération de Touraine,FRA,Local government,1988-08-15,agglo-touraine.example
+1609,Direction départementale des territoires Corbières,FRA,Public administration,1973-03-28,direction-departementale-territoires12.example
+1610,Billardon Großhandel GmbH & Co. KG,DEU,Retail,1978-08-20,billardon-grohandel.example
+1612,Télécom Belledonne EURL,FRA,Telecommunications,2000-06-19,telecom-belledonne.example
+1613,Technologies Côte d'Azur SAS,FRA,IT services,2004-06-09,technologies-cote-azur.example
+1614,Vejus Médical SARL,FRA,Healthcare,1983-02-03,vejus-medical.example
+1615,Chesternine & Muringer,CHE,Healthcare,1963-07-31,chesternine-muringer.example
+1616,Groupe Rosenzweig & Joseph-Auguste,FRA,Banking,2014-08-26,groupe-rosenzweig-joseph.example
+1619,Office public de l'habitat Lot,FRA,Public administration,1985-01-20,office-public-habitat16.example
+1620,Amt Orbe,CHE,Public administration,1992-02-25,amt-orbe.example
+1621,Terrassement Noffe SA,FRA,Construction,2000-09-07,terrassement-noffe.example
+1622,Brauerei Schröder GmbH & Co. KG,DEU,Food industry,1991-01-01,brauerei-schroder.example
+1624,Groupe Expertise Chirez,FRA,Consulting,1992-09-16,groupe-expertise-chirez.example
+1625,Industries Caballer,FRA,Manufacturing,1988-01-16,industries-caballer.example
+1626,Fibre Le Guen SA,FRA,Telecommunications,1981-04-03,fibre-guen.example
+1629,Caisse primaire Isère,FRA,Public administration,2017-06-01,caisse-primaire-isere.example
+1633,Industries Martinot-Lagarde SA,FRA,Manufacturing,2000-04-15,industries-martinot-lagarde.example
+1634,Consulenze Franco S.r.l.,ITA,Consulting,1996-11-26,consulenze-franco.example
+1635,Protection Boutin SAS,FRA,Insurance,1960-02-06,protection-boutin.example
+1636,El M'Hamdi Promotion SAS,FRA,Construction,2005-09-16,el-m-hamdi.example
+1637,Versicherung Ciise GmbH,CHE,Insurance,1982-06-11,versicherung-ciise.example
+1638,Construction Meuse,FRA,Construction,1976-06-18,construction-meuse.example
+1639,Plumyoen & Lesieur EURL,FRA,Pharmaceuticals,1997-10-11,plumyoen-lesieur.example
+1640,Eveque Pharmaceutique SAS,FRA,Pharmaceuticals,1962-03-24,eveque-pharmaceutique.example
+1641,Servizi Colombo S.p.A.,ITA,Public administration,1998-11-28,servizi-colombo.example
+1642,Direction départementale des territoires Tarn,FRA,Public administration,2009-07-29,direction-departementale-territoires13.example
+1643,Eynaud & Maillere SA,FRA,Real estate,2004-05-12,eynaud-maillere.example
+1644,Groupe Michelena Partenaires,FRA,Consulting,2005-04-15,groupe-michelena-partenaires.example
+1645,Zengin & Meyer AG,CHE,Mutual insurance,1951-06-13,zengin-meyer.example
+1646,Groupe Patrimoine Auvergne,FRA,Banking,1956-02-24,groupe-patrimoine-auvergne.example
+1647,Bau Butacu GmbH,DEU,Construction,1992-09-17,bau-butacu.example
+1648,Logistique Dindault EURL,FRA,Transport and logistics,1962-03-20,logistique-dindault.example
+1649,Hatier Crédit SA,FRA,Banking,1965-10-18,hatier-credit.example
+1650,Hachem Promotion SARL,FRA,Real estate,1974-10-20,hachem-promotion.example
+1651,Conseil départemental de Bourgogne,FRA,Local government,1982-03-27,departement-bourgogne.example
+1652,Overlot Hypermarchés SA,FRA,Retail,2013-05-19,overlot-hypermarches.example
+1653,Etheves Académie SARL,FRA,Education,1989-04-26,etheves-academie.example
+1655,Bettinger & Bellaire SARL,FRA,Software publishing,2008-01-31,bettinger-bellaire.example
+1658,Patrimoine Vulliamy SA,CHE,Banking,1962-09-16,patrimoine-vulliamy.example
+1659,Terrassement Mahieu SA,FRA,Construction,1963-08-05,terrassement-mahieu.example
+1662,Équipementier Delasalle SARL,FRA,Automotive,2005-12-17,equipementier-delasalle.example
+1663,Fichtelgebirge Fahrzeugbau AG,DEU,Automotive,1961-07-05,fichtelgebirge-fahrzeugbau.example
+1664,Madelon & Giraudet SARL,FRA,Transport and logistics,1956-01-25,madelon-giraudet.example
+1666,Infogérance Dessenne SAS,FRA,IT services,1999-02-16,infogerance-dessenne.example
+1667,EDV Werner GmbH,DEU,IT services,1999-07-21,edv-werner.example
+1669,Groupe Data Altea,FRA,Software publishing,1977-10-02,groupe-data-altea.example
+1670,Glehen Magasins,FRA,Retail,1960-05-16,glehen-magasins.example
+1671,Tremoulu Équipementier,FRA,Automotive,1976-12-29,tremoulu-equipementier.example
+1672,Groupe Meiss Assistance,FRA,Insurance,1954-07-02,groupe-meiss-assistance.example
+1674,Groupe Hydroélectricité Bruna-Rosso,FRA,Energy,1964-11-19,groupe-hydroelectricite-bruna.example
+1675,Reisen Cavallaro AG,CHE,Tourism,2012-12-18,reisen-cavallaro.example
+1677,Zimmermann & Weber GmbH & Co. KG,DEU,Software publishing,1990-09-19,zimmermann-weber.example
+1680,Assistance Pyrénées SARL,FRA,Insurance,2015-07-15,assistance-pyrenees.example
+1681,Transports Deschepper SAS,FRA,Transport and logistics,1966-11-26,transports-deschepper.example
+1683,Comune di Cagliari,ITA,Local government,1976-08-21,comune-cagliari.example
+1684,Mottais Garantie,FRA,Insurance,1976-03-07,mottais-garantie.example
+1685,Gimenes Génie Civil SCOP,FRA,Construction,2008-07-12,gimenes-genie-civil.example
+1686,Parmentelot Data,FRA,Software publishing,2010-02-15,parmentelot-data.example
+1687,Deffaisse Financement SAS,FRA,Banking,1957-06-02,deffaisse-financement.example
+1689,Informatique Alsace SARL,FRA,IT services,1971-11-18,informatique-alsace.example
+1690,Solutions Anjou SAS,FRA,Software publishing,1976-08-27,solutions-anjou.example
+1691,Protection Zighem SA,FRA,Insurance,1955-02-01,protection-zighem.example
+1692,Chulia & Bland SARL,FRA,Banking,1963-10-13,chulia-bland.example
+1693,Pinazza Hochbau GmbH & Co. KG,DEU,Construction,1974-04-20,pinazza-hochbau.example
+1695,Bellenoue & Chetrit SARL,FRA,Healthcare,2016-12-14,bellenoue-chetrit.example
+1698,Memboeuf Routier SCOP,FRA,Transport and logistics,1957-05-13,memboeuf-routier.example
+1699,Assurances Haspengouw SRL,BEL,Insurance,1994-07-21,assurances-haspengouw.example
+1700,Pallueau Boulangerie,FRA,Food industry,2007-03-25,pallueau-boulangerie.example
+1701,Office public de l'habitat Dauphiné,FRA,Public administration,1968-11-20,office-public-habitat17.example
+1704,Dessus & Hon SA,FRA,Food industry,2015-11-15,dessus-hon.example
+1705,Dja Finance SA,LUX,Banking,1987-10-17,dja-finance.example
+1706,Hypermarchés Deteindre SA,FRA,Retail,1963-08-31,hypermarches-deteindre.example
+1707,Prévoyance Côte d'Opale SA,FRA,Insurance,1965-01-03,prevoyance-cote-opale.example
+1708,Solutions Maurin SARL,FRA,Software publishing,1950-03-03,solutions-maurin.example
+1709,Radio Tolaini,FRA,Media,1980-07-29,radio-tolaini.example
+1711,Conseil départemental de Gascogne,FRA,Local government,1987-02-24,departement-gascogne.example
+1712,Agence régionale de santé Marne,FRA,Public administration,2015-10-27,agence-regionale-sante15.example
+1713,Arnao & Meyer SA,FRA,Consulting,2015-07-22,arnao-meyer.example
+1714,Centre de formation Montpellier,FRA,Education,1956-01-10,centre-formation-montpellier.example
+1717,Gaz Ben Larbi SAS,FRA,Energy,1952-09-26,gaz-ben-larbi.example
+1718,Toscan & Gillain EURL,FRA,Food industry,1996-03-31,toscan-gillain.example
+1719,Rossi & Serra S.r.l.,ITA,Transport and logistics,2011-12-31,rossi-serra.example
+1720,Direction départementale des territoires Pyrénées,FRA,Public administration,1989-08-11,direction-departementale-territoires14.example
+1722,Groupe Leim Intégration,FRA,IT services,1977-03-28,groupe-leim-integration.example
+1723,Trasporti Modena S.p.A.,ITA,Transport and logistics,2003-04-20,trasporti-modena.example
+1724,Courtage Armor SARL,FRA,Insurance,1964-10-15,courtage-armor.example
+1725,Lermusiaux Fret EURL,FRA,Transport and logistics,1977-09-05,lermusiaux-fret.example
+1726,Caisse primaire Bourgogne,FRA,Public administration,1961-06-15,caisse-primaire-bourgogne.example
+1727,Grossiste Meuse,FRA,Retail,1990-03-07,grossiste-meuse.example
+1729,Guimera Affrètement,FRA,Transport and logistics,1979-02-16,guimera-affretement.example
+1730,Agence régionale de santé Provence,FRA,Public administration,1997-03-10,agence-regionale-sante16.example
+1731,Groupe Presse Clavot,FRA,Media,1954-12-23,groupe-presse-clavot.example
+1732,Abdesselem & Da Costa Ribeiro,FRA,IT services,2011-03-15,abdesselem-da-costa.example
+1733,Mitsev & Koleva,CHE,Automotive,2017-10-27,mitsev-koleva.example
+1734,Biotech Boinet,FRA,Pharmaceuticals,2002-05-21,biotech-boinet.example
+1735,Conserverie Montpellier,FRA,Food industry,1969-10-16,conserverie-montpellier.example
+1736,Manutention Daudigeos SARL,FRA,Transport and logistics,1971-10-12,manutention-daudigeos.example
+1737,Distribution Berry SAS,FRA,Retail,1980-07-07,distribution-berry.example
+1738,Conseil IT Thibo,FRA,IT services,1991-08-28,conseil-it-thibo.example
+1742,Distribuzione Siena S.p.A.,ITA,Retail,2007-02-12,distribuzione-siena.example
+1745,Métallurgie Boussioux,FRA,Manufacturing,1972-12-16,metallurgie-boussioux.example
+1746,Grasset Hertzien SARL,FRA,Telecommunications,1950-04-26,grasset-hertzien.example
+1747,Technologies Chailleux SAS,FRA,IT services,1964-08-12,technologies-chailleux.example
+1750,Pièces auto Garnier SAS,FRA,Automotive,1970-06-08,pieces-auto-garnier.example
+1751,Centre Hospitalier Jura SCOP,FRA,Healthcare,1987-07-14,centre-hospitalier-jura.example
+1752,Soins Kuc SAS,FRA,Healthcare,2015-06-20,soins-kuc.example
+1753,Mairie de Rouergue,FRA,Local government,2008-08-04,ville-rouergue.example
+1754,Paulus École,BEL,Education,1986-02-14,paulus-ecole.example
+1758,Télécom Agasse EURL,FRA,Telecommunications,1991-12-23,telecom-agasse.example
+1759,Chanussot & Coccia,FRA,Telecommunications,1965-05-22,chanussot-coccia.example
+1760,Hertzien Alsace SAS,FRA,Telecommunications,2015-07-08,hertzien-alsace.example
+1761,Graillot Services numériques,FRA,IT services,1957-09-30,graillot-services-numeriques.example
+1762,Services numériques Bresse SA,FRA,IT services,1997-09-10,services-numeriques-bresse.example
+1763,Communauté d'agglomération de Cotentin,FRA,Local government,1971-03-19,agglo-cotentin.example
+1764,Lallement Prévoyance,FRA,Insurance,1986-02-21,lallement-prevoyance.example
+1766,Mongoy Mutuelle SAS,FRA,Mutual insurance,2004-08-27,mongoy-mutuelle.example
+1767,Groupe Commerce Dochez,FRA,Retail,1990-03-07,groupe-commerce-dochez.example
+1768,Plastiques Bernier SAS,FRA,Manufacturing,2011-05-11,plastiques-bernier.example
+1769,Talvard Infogérance,FRA,IT services,1977-04-08,talvard-infogerance.example
+1770,Troplent & Fino,FRA,Energy,2010-04-12,troplent-fino.example
+1771,Grossiste Tricone SARL,FRA,Retail,1972-07-03,grossiste-tricone.example
+1772,Mecklenburg Medizin GmbH,DEU,Healthcare,1995-03-15,mecklenburg-medizin.example
+1773,Polyclinique Pouilloux SA,FRA,Healthcare,1989-08-23,polyclinique-pouilloux.example
+1774,Allel Aciers SA,BEL,Manufacturing,2009-07-18,allel-aciers.example
+1775,Bombenger Campus SA,FRA,Education,1959-12-22,bombenger-campus.example
+1776,Groupe Biosciences Corbières,FRA,Pharmaceuticals,1993-08-09,groupe-biosciences-corbieres.example
+1778,Office public de l'habitat Belledonne,FRA,Public administration,2002-09-18,office-public-habitat18.example
+1779,Solutions Saône,FRA,Software publishing,1982-03-21,solutions-saone.example
+1781,Chauvanet Express Sàrl,LUX,Transport and logistics,1988-03-06,chauvanet-express.example
+1782,Soins Picardie SAS,FRA,Healthcare,1960-10-01,soins-picardie.example
+1783,Westfalen Kunststoff GmbH,DEU,Manufacturing,1972-04-23,westfalen-kunststoff.example
+1785,Peak Laboratories Ltd,GBR,Pharmaceuticals,1977-12-21,peak-laboratories.co.example
+1787,Debru Data,FRA,Software publishing,2001-12-31,debru-data.example
+1788,Leonard Logistique,FRA,Transport and logistics,1976-08-24,leonard-logistique.example
+1789,Direction départementale des territoires Ardèche,FRA,Public administration,2006-12-31,direction-departementale-territoires15.example
+1790,Mecklenburg Maschinenbau GmbH,DEU,Manufacturing,1996-08-31,mecklenburg-maschinenbau.example
+1791,Ganuchaud & Plicque SARL,FRA,Insurance,1952-12-16,ganuchaud-plicque.example
+1792,Fonderie Durance SAS,FRA,Manufacturing,1970-01-29,fonderie-durance.example
+1793,Energia Barbieri S.p.A.,ITA,Energy,1972-03-21,energia-barbieri.example
+1794,Augugliaro Industries,FRA,Manufacturing,2018-09-02,augugliaro-industries.example
+1795,Ayel Assurances,FRA,Insurance,1974-08-18,ayel-assurances.example
+1796,Biscuiterie Fah,FRA,Food industry,1966-07-10,biscuiterie-fah.example
+1797,Digital Kozina AG,CHE,Software publishing,1982-02-11,digital-kozina.example
+1798,Routier Lotellier SCOP,FRA,Transport and logistics,1959-11-11,routier-lotellier.example
+1799,Berger Tiefbau GmbH,DEU,Construction,1976-01-25,berger-tiefbau.example
+1800,Groupe Hygounet Pharma,FRA,Pharmaceuticals,1993-12-10,groupe-hygounet-pharma.example
+1804,Informatique De Haro,FRA,IT services,1965-05-15,informatique-haro.example
+1807,Marx Stratégie,FRA,Consulting,2001-01-23,marx-strategie.example
+1808,Groupe Hydroélectricité Anjou,FRA,Energy,1955-06-25,groupe-hydroelectricite-anjou.example
+1809,Ladghem-Chikouche Industries SAS,FRA,Manufacturing,1952-11-09,ladghem-chikouche-industries.example
+1810,Solutions Bellenger,FRA,Software publishing,1976-08-05,solutions-bellenger.example
+1811,Fonderie Provence,FRA,Manufacturing,1994-04-01,fonderie-provence.example
+1812,Groupe Protection Auvergne,FRA,Insurance,1980-09-18,groupe-protection-auvergne.example
+1814,Travaux Publics Stadelmann SA,CHE,Construction,1956-12-25,travaux-publics-stadelmann.example
+1816,Bâtiment Pugin SAS,FRA,Construction,2007-05-14,batiment-pugin.example
+1817,Métallurgie Brunelot,FRA,Manufacturing,2015-11-09,metallurgie-brunelot.example
+1819,Groupe Services numériques Daramy,FRA,IT services,1980-07-25,groupe-services-numeriques2.example
+1820,Polyclinique Beunas EURL,FRA,Healthcare,2017-04-15,polyclinique-beunas.example
+1823,Informatique Rivard SARL,FRA,IT services,2008-10-24,informatique-rivard.example
+1824,Caisse primaire Montpellier,FRA,Public administration,2008-07-31,caisse-primaire-montpellier.example
+1825,Groupe Perucca & Rioli,FRA,Healthcare,1983-11-01,groupe-perucca-rioli.example
+1826,Anstalt Ronca AG,CHE,Public administration,1954-04-13,anstalt-ronca.example
+1827,Routier Beauce,FRA,Transport and logistics,1968-07-10,routier-beauce.example
+1832,Ingrand & Mejean SA,FRA,Healthcare,1995-06-14,ingrand-mejean.example
+1833,Audit Vercors,FRA,Consulting,1954-06-13,audit-vercors.example
+1834,Stadt Mecklenburg,DEU,Local government,1991-08-27,stadt-mecklenburg.example
+1835,Energia Franciacorta S.r.l.,ITA,Energy,1965-01-09,energia-franciacorta.example
+1836,Delbecq Pièces auto SARL,FRA,Automotive,1958-12-13,delbecq-pieces-auto.example
+1837,Garcia & Fraysse,FRA,Energy,1993-06-04,garcia-fraysse.example
+1838,Éolien Estérel,FRA,Energy,1955-08-21,eolien-esterel.example
+1840,Champenois & Wong,FRA,Manufacturing,2012-05-18,champenois-wong.example
+1842,Jean Jacques Mobilité,FRA,Automotive,1965-12-29,jean-jacques-mobilite.example
+1843,Del Ben & Colleau SAS,FRA,Energy,1965-09-22,ben-colleau.example
+1844,Behörde Dettwiler AG,CHE,Public administration,1958-12-02,behorde-dettwiler.example
+1845,Stratégie Pecqueur,FRA,Consulting,1955-05-23,strategie-pecqueur.example
+1848,Transport Cortazzo AG,CHE,Transport and logistics,1964-10-01,transport-cortazzo.example
+1851,Hahn Systèmes d'information SA,LUX,IT services,1979-09-25,hahn-systemes-information.example
+1852,Construction Dupieux SCOP,FRA,Construction,1963-09-14,construction-dupieux.example
+1853,Bavuso & Leja SARL,FRA,Consulting,1986-06-07,bavuso-leja.example
+1854,Bedikian & Theiler,CHE,Public administration,1997-05-22,bedikian-theiler.example
+1855,Magasins Oise SA,FRA,Retail,1951-07-30,magasins-oise.example
+1857,De Santis & D'Angelo S.p.A.,ITA,Telecommunications,2011-01-17,santis-angelo.example
+1858,Mairie de Pyrénées,FRA,Local government,2009-05-02,ville-pyrenees2.example
+1859,Stahl Richter GmbH,DEU,Manufacturing,1965-11-30,stahl-richter.example
+1861,Génie Civil Hege,FRA,Construction,2011-03-04,genie-civil-hege.example
+1863,Cheron & Caruge EURL,FRA,Pharmaceuticals,2011-06-10,cheron-caruge.example
+1864,Groupe Viais Assurances,FRA,Insurance,2015-10-29,groupe-viais-assurances.example
+1865,Mell Usinage EURL,FRA,Manufacturing,1993-01-08,mell-usinage.example
+1866,Correia Systèmes,FRA,Software publishing,1997-08-20,correia-systemes.example
+1868,Edler & Salamanna,CHE,Pharmaceuticals,1962-07-18,edler-salamanna.example
+1869,Promotion Plaidit SAS,FRA,Real estate,2000-09-09,promotion-plaidit.example
+1870,Ryser & Agator SA,FRA,Energy,2002-11-18,ryser-agator.example
+1872,Commerce Chartreuse,FRA,Retail,1981-11-22,commerce-chartreuse.example
+1873,Banca Bergamo S.p.A.,ITA,Banking,1969-08-21,banca-bergamo.example
+1875,Dorr Médias SARL,FRA,Media,1982-12-12,dorr-medias.example
+1876,Académie Cideme SA,FRA,Education,1976-08-16,academie-cideme.example
+1877,Biscuiterie Sallandrouze SARL,FRA,Food industry,2003-07-02,biscuiterie-sallandrouze.example
+1879,Groupe Fibre Beaujolais,FRA,Telecommunications,2018-04-22,groupe-fibre-beaujolais.example
+1880,Amt Vacek GmbH,CHE,Public administration,1951-01-07,amt-vacek.example
+1881,Systemhaus Möller GmbH,DEU,IT services,1964-06-14,systemhaus-moller.example
+1882,Équipements Siegrist SAS,FRA,Manufacturing,1997-08-27,equipements-siegrist.example
+1883,Ayivi & Ribeau SAS,FRA,Banking,2008-07-18,ayivi-ribeau.example
+1884,Groupe Ingénierie Serrand,FRA,Consulting,1954-01-14,groupe-ingenierie-serrand.example
+1885,Patrimoine Landrieve SAS,FRA,Banking,1957-10-02,patrimoine-landrieve.example
+1886,Mécanique Chillan,FRA,Manufacturing,2010-02-12,mecanique-chillan.example
+1887,Logistique Kaftan SA,CHE,Transport and logistics,1995-07-10,logistique-kaftan.example
+1891,Kommunikation Becker SE,DEU,Telecommunications,1981-03-15,kommunikation-becker.example
+1893,Communications Grubišic Sàrl,CHE,Telecommunications,1958-11-16,communications-grubisic.example
+1894,Josse & Saumier SARL,FRA,Healthcare,1976-08-14,josse-saumier.example
+1895,Expertise Duminil,FRA,Consulting,1962-05-06,expertise-duminil.example
+1896,Neckar Lebensmittel SE,DEU,Food industry,1969-01-03,neckar-lebensmittel.example
+1897,Esnault & Michalski,FRA,Software publishing,2007-04-06,esnault-michalski.example
+1899,Épargne Pacelli SA,FRA,Banking,2006-09-14,epargne-pacelli.example
+1900,Werner Wohnungsbau GmbH,DEU,Real estate,1994-08-04,werner-wohnungsbau.example
+1901,EDV Neziri AG,CHE,IT services,1980-09-11,edv-neziri.example
+1903,Ville de Médoc,FRA,Local government,1959-01-25,ville-medoc2.example
+1904,Vogt Vertrieb GmbH,DEU,Retail,2001-05-24,vogt-vertrieb.example
+1905,Ringhofer Märkte GmbH & Co. KG,DEU,Retail,1967-05-31,ringhofer-markte.example
+1906,Costruzioni Lazio S.r.l.,ITA,Construction,1974-11-04,costruzioni-lazio.example
+1907,Saez De Viteri & Quintanal S.A.,ESP,Software publishing,1962-07-06,saez-viteri-quintanal.example
+1908,Voyages Artaz EURL,FRA,Tourism,1951-11-28,voyages-artaz.example
+1909,Boulangerie Thibaut SAS,FRA,Food industry,2010-05-12,boulangerie-thibaut.example
+1912,Aciers Batmale SAS,FRA,Manufacturing,2001-08-30,aciers-batmale.example
+1914,Crédit Hasenfratz SA,FRA,Banking,1978-02-06,credit-hasenfratz.example
+1916,Radiologie Saône,FRA,Healthcare,1989-12-19,radiologie-saone.example
+1918,Boisier Hydroélectricité,FRA,Energy,1993-02-27,boisier-hydroelectricite.example
+1919,Lemberger Pétrole SARL,FRA,Energy,2009-01-26,lemberger-petrole.example
+1922,Routier Garonne,FRA,Transport and logistics,2009-12-24,routier-garonne.example
+1923,Paroli Voyages,FRA,Tourism,2007-11-07,paroli-voyages.example
+1924,Construction Moselle,FRA,Construction,2009-12-06,construction-moselle.example
+1927,Travaux Publics Payre SARL,FRA,Construction,2018-12-04,travaux-publics-payre.example
+1928,Gresle & Guilloizeau,FRA,Insurance,1969-03-11,gresle-guilloizeau.example
+1930,Groupe Manutention Liagre,FRA,Transport and logistics,2016-10-22,groupe-manutention-liagre.example
+1932,Groupe Routier Goralski,FRA,Transport and logistics,1978-07-28,groupe-routier-goralski.example
+1933,Farmaceutici Romeo S.r.l.,ITA,Pharmaceuticals,1968-01-04,farmaceutici-romeo.example
+1935,Solidarité Moulard SARL,FRA,Mutual insurance,1955-08-13,solidarite-moulard.example
+1936,Tridoux & Caute SA,FRA,Retail,1990-10-25,tridoux-caute.example
+1937,Groupe Protection Pardon,FRA,Insurance,2015-07-03,groupe-protection-pardon.example
+1939,Biotech Savoie SARL,FRA,Pharmaceuticals,2006-06-09,biotech-savoie.example
+1941,Van Weymers Clinique SAS,FRA,Healthcare,1988-04-20,weymers-clinique.example
+1943,Perruaux Partenaires,FRA,Consulting,1975-05-24,perruaux-partenaires.example
+1944,Direction départementale des territoires Armor,FRA,Public administration,2010-10-05,direction-departementale-territoires16.example
+1945,Ciantar Numérique SAS,FRA,Software publishing,2006-11-02,ciantar-numerique.example
+1946,Audit Bongiorno SAS,FRA,Consulting,1957-03-09,audit-bongiorno.example
+1949,Transports Tricaud SARL,FRA,Transport and logistics,2015-01-27,transports-tricaud.example
+1952,Fonderie Cantaix,FRA,Manufacturing,1987-07-10,fonderie-cantaix.example
+1953,Rückversicherung Aleksic,CHE,Insurance,1951-12-04,ruckversicherung-aleksic.example
+1954,Services numériques Claye SAS,FRA,IT services,1953-08-19,services-numeriques-claye.example
+1956,Prenot & Buffard SAS,FRA,Software publishing,1994-01-07,prenot-buffard.example
+1957,Cloud Lot SAS,FRA,Software publishing,2003-11-17,cloud-lot.example
+1958,Wohnungsbau Al Bakour AG,CHE,Real estate,1954-12-18,wohnungsbau-al-bakour.example
+1960,Groupe Laich Métallurgie,FRA,Manufacturing,1951-12-07,groupe-laich-metallurgie.example
+1961,Foncière Murgale SAS,FRA,Real estate,1976-02-17,fonciere-murgale.example
+1965,Tocci Hydroélectricité SAS,FRA,Energy,2003-06-25,tocci-hydroelectricite.example
+1966,Mall Express,FRA,Transport and logistics,2009-02-20,mall-express.example
+1967,Garcia & Cardinal,FRA,IT services,2018-03-27,garcia-cardinal.example
+1968,Vins Simon SARL,FRA,Food industry,2004-08-02,vins-simon.example
+1969,Software Morelli S.r.l.,ITA,Software publishing,1960-07-21,software-morelli.example
+1970,Lerbet Conserverie SA,FRA,Food industry,1954-10-10,lerbet-conserverie.example
+1971,Groupe Pièces auto Pyrénées,FRA,Automotive,1981-06-01,groupe-pieces-auto.example
+1972,Messagerie Pernot SAS,FRA,Transport and logistics,2014-10-22,messagerie-pernot.example
+1973,Fonderie Isère SAS,FRA,Manufacturing,1977-06-24,fonderie-isere.example
+1974,Michaut Ingénierie,FRA,Consulting,2002-10-14,michaut-ingenierie.example
+1975,Direction départementale des territoires Moselle,FRA,Public administration,1958-07-26,direction-departementale-territoires17.example
+1976,Neumann Kredit SE,DEU,Banking,1981-08-07,neumann-kredit.example
+1977,Schutz Gundi AG,CHE,Insurance,1963-06-10,schutz-gundi.example
+1978,Bouilly Numérique,FRA,Software publishing,1974-06-21,bouilly-numerique.example
+1979,Ribstein & Colbert,FRA,Healthcare,2017-08-24,ribstein-colbert.example
+1981,Intégration Arlon SRL,BEL,IT services,1985-05-03,integration-arlon.example
+1984,Gaz Cottereau SAS,FRA,Energy,2015-08-23,gaz-cottereau.example
+1986,Lemke Pharmaceutique SARL,FRA,Pharmaceuticals,2001-12-01,lemke-pharmaceutique.example
+1987,Bister & Strohmeier,FRA,IT services,1955-06-29,bister-strohmeier.example
+1988,Groupe Médical Maisonnat,FRA,Healthcare,1998-07-08,groupe-medical-maisonnat.example
+1989,Formazione Castelli S.p.A.,ITA,Education,1955-10-18,formazione-castelli.example
+1991,Querrien Financement,FRA,Banking,1962-09-23,querrien-financement.example
+1992,Appriou Mutualité SAS,FRA,Mutual insurance,1982-12-05,appriou-mutualite.example
+1994,Audit Criq,FRA,Consulting,1976-04-02,audit-criq.example
+1995,Institut Trefois SAS,FRA,Education,2018-02-23,institut-trefois.example
+1996,Caisse primaire Médoc,FRA,Public administration,1990-01-07,caisse-primaire-medoc.example
+2000,Blanc Distribution SAS,FRA,Retail,1996-12-22,blanc-distribution.example

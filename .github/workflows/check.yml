@@ -1,0 +1,22 @@
+# Builds the project on every push and every tag, so that each course state stays buildable.
+name: check
+
+on:
+  push:
+    branches: [main]
+    tags: ["module-*"]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install dbt-oss==2.0.8
+      - run: dbt --version
+      # Quoted as a whole: an unquoted ": " inside a run line breaks the YAML.
+      - run: "dbt run-operation load_raw --args '{batch: batch_1}'"
+      - run: dbt build

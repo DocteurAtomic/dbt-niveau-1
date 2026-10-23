@@ -1,0 +1,7 @@
+sources:
+  - name: raw
+    description: Tables of the Pachadata Training back office, loaded by the load_raw macro.
+    schema: raw
+    tables:
+      - name: courses
+      - name: course_sessions

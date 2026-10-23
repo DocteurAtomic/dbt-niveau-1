@@ -1,0 +1,14 @@
+name: pachadata_training
+version: "1.0.0"
+profile: pachadata_training
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+analysis-paths: ["analyses"]
+
+vars:
+  # Folder holding the two deliveries of the source system, relative to the project.
+  data_dir: data

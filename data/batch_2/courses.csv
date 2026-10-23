@@ -1,0 +1,181 @@
+course_id,course_code,title,category_code,domain_code,duration_days,max_attendees,created_at
+169,DW-KIMB,Dimensional modeling of a data warehouse,CP,BI,3,10,2011-01-02
+176,SSRS-16,SSRS 2016: paginated reports,CP,BI,3,12,2016-01-02
+177,PBI-DAX,Power BI: the DAX language,CP,BI,3,10,2017-01-02
+178,PBI-MODEL,Power BI: data modeling,CP,BI,3,10,2017-01-02
+179,ADF-AZ,Azure Data Factory: data orchestration,CP,BI,3,10,2018-01-02
+180,PBI-PQ,Power Query: prepare and transform data,CP,BI,2,12,2018-01-02
+181,PBI-ADM,Power BI: administration and governance,CP,BI,2,12,2019-01-02
+182,SPARK-DATA,Apache Spark: data processing,CP,BI,3,10,2019-01-02
+183,SSAS-19,SSAS 2019: tabular models,CP,BI,4,10,2019-01-02
+184,SSIS-19,SSIS 2019: data integration,CP,BI,4,10,2019-01-02
+185,DATA-GOV,Data governance and data quality,CP,BI,2,12,2020-01-02
+186,DBX-LAKE,Databricks: the lakehouse platform,CP,BI,3,10,2021-01-02
+187,PBI-DESK,Power BI Desktop: report design,CP,BI,2,12,2021-01-02
+188,DBT-ELT,dbt: transforming data in the warehouse,CP,BI,2,12,2022-01-02
+189,PBI-DAXAV,Advanced DAX,CP,BI,2,12,2022-01-02
+190,FAB-DF,Microsoft Fabric: Data Factory,CP,BI,2,12,2024-01-02
+191,FAB-LH,Microsoft Fabric: lakehouse and notebooks,CP,BI,3,10,2024-01-02
+192,FAB-PRISE,Microsoft Fabric: getting started,CP,BI,2,12,2024-01-02
+193,SE-FABRIC,Microsoft Fabric: overview and field experience,SE,BI,1,20,2024-01-02
+194,FAB-RTI,Microsoft Fabric: Real-Time Intelligence,CP,BI,2,12,2025-01-02
+195,FAB-WH,Microsoft Fabric: data warehouse,CP,BI,2,12,2025-01-02
+201,AZ-ADM,Azure: administration,CP,CL,4,10,2016-01-02
+203,LNX-DBA,Linux for database administrators,CP,CL,2,12,2017-01-02
+205,AZ-FOND,Azure: fundamentals,CP,CL,2,12,2018-01-02
+206,IAC-ANS,Ansible: configuration automation,CP,CL,2,12,2018-01-02
+207,LNX-ADM2,Linux: system administration with systemd,CP,CL,4,10,2018-01-02
+209,SQL-AZVM,SQL Server on an Azure virtual machine,CP,CL,2,12,2018-01-02
+210,AWS-RDS,Amazon RDS: managed databases on AWS,CP,CL,2,12,2019-01-02
+213,AZSQL-2,"Azure SQL: database, managed instance and virtual machine",CP,CL,3,10,2020-01-02
+214,IAC-TF,Terraform: infrastructure as code,CP,CL,2,12,2020-01-02
+215,DOCKER-2,Docker: containers in production,CP,CL,2,12,2021-01-02
+216,SC-AZ-CL,Monitoring and optimizing cloud costs,CP,CL,2,12,2021-01-02
+217,WIN-22,Windows Server 2022: administration,CP,CL,4,10,2022-01-02
+218,K8S-2,Kubernetes: operations and databases,CP,CL,3,10,2023-01-02
+220,CO-PAROLE,Public speaking,CP,CO,2,10,2011-01-02
+221,CO-TEMPS,Time and priority management,CP,CO,2,10,2011-01-02
+222,CO-ECRIT,Professional business writing,CP,CO,2,10,2012-01-02
+223,CO-NEGO,Negotiation,CP,CO,2,10,2012-01-02
+224,CO-REUNION,Running effective meetings,CP,CO,1,10,2012-01-02
+225,CO-CONFLIT,Conflict management,CP,CO,2,10,2013-01-02
+226,CO-ARGU,Arguing and persuading,CP,CO,1,10,2014-01-02
+227,CO-ASSERT,Assertiveness,CP,CO,2,10,2014-01-02
+228,CO-ECOUTE,Active listening and questioning,CP,CO,1,10,2015-01-02
+229,CO-STRESS,Managing stress and emotions,CP,CO,2,10,2015-01-02
+230,CO-PRESENT,Impactful presentations,CP,CO,2,10,2016-01-02
+231,CO-SYNTH,Summarizing skills,CP,CO,1,10,2017-01-02
+232,CO-STORY,Business storytelling,CP,CO,1,10,2018-01-02
+233,CO-DISTANT,Working effectively remotely,CP,CO,1,10,2020-01-02
+263,MONGO-ADM,MongoDB: modeling and administration,CP,DB,3,10,2017-01-02
+266,MY80-ADM,MySQL 8.0: administration,CP,DB,4,10,2019-01-02
+267,ORA19-ADM,Oracle 19c: administration,CP,DB,5,10,2019-01-02
+268,ORA19-PLSQL,Oracle 19c: PL/SQL,CP,DB,4,12,2019-01-02
+280,MY80-OPT,MySQL 8.0: query optimization,CP,DB,3,10,2020-01-02
+281,ORA19-OPT,Oracle 19c: query optimization,CP,DB,4,10,2020-01-02
+283,PG12-OPT,PostgreSQL 12: query tuning,CP,DB,3,10,2020-01-02
+284,PG12-REPL,PostgreSQL 12: replication and high availability,CP,DB,3,10,2020-01-02
+285,SE-TEND,Data management trends,SE,DB,1,20,2020-01-02
+286,SE-PGMS,PostgreSQL or SQL Server: choosing an engine,SE,DB,1,20,2021-01-02
+287,PG14-ADM,PostgreSQL 14: administration,CP,DB,4,10,2022-01-02
+288,PG14-PRISE,PostgreSQL 14: getting started,CP,DB,3,12,2022-01-02
+289,SE-SQL22,What's new in SQL Server 2022,SE,DB,1,20,2022-01-02
+290,SQL22-ADM,SQL Server 2022: administration,CP,DB,5,10,2022-01-02
+291,SQL22-DIAG,SQL Server 2022: performance troubleshooting,CP,DB,3,10,2022-01-02
+292,SQL22-HA,SQL Server 2022: high availability and Always On,CP,DB,4,10,2022-01-02
+293,SQL22-IDX,SQL Server 2022: indexing,CP,DB,3,10,2022-01-02
+294,SQL22-MIG,Migrating to SQL Server 2022,CP,DB,3,10,2022-01-02
+295,SQL22-OPT,SQL Server 2022: query tuning,CP,DB,4,10,2022-01-02
+296,SQL22-PRISE,SQL Server 2022: getting started,CP,DB,3,12,2022-01-02
+297,SQL22-QS,SQL Server 2022: Query Store,CP,DB,2,12,2022-01-02
+298,SQL22-TSQL,SQL Server 2022: advanced T-SQL,CP,DB,4,12,2022-01-02
+299,SQL22-XE,SQL Server 2022: Extended Events,CP,DB,2,12,2022-01-02
+300,PG15-OPT,PostgreSQL 15: query tuning,CP,DB,3,10,2023-01-02
+301,PG16-REPL,PostgreSQL 16: replication and high availability,CP,DB,3,10,2024-01-02
+302,MY84-ADM,MySQL 8.4: administration,CP,DB,4,10,2025-01-02
+303,PG17-ADM,PostgreSQL 17: administration,CP,DB,4,10,2025-01-02
+304,PG17-OPT,PostgreSQL 17: query tuning,CP,DB,3,10,2025-01-02
+305,SE-SQL25,What's new in SQL Server 2025,SE,DB,1,20,2026-01-02
+306,SQL25-ADM,SQL Server 2025: administration,CP,DB,5,10,2026-01-02
+307,SQL25-DIAG,SQL Server 2025: performance troubleshooting,CP,DB,3,10,2026-01-02
+308,SQL25-HA,SQL Server 2025: high availability and Always On,CP,DB,4,10,2026-01-02
+309,SQL25-MIG,Migrating to SQL Server 2025,CP,DB,3,10,2026-01-02
+310,SQL25-OPT,SQL Server 2025: query tuning,CP,DB,4,10,2026-01-02
+311,SQL25-PRISE,SQL Server 2025: getting started,CP,DB,3,12,2026-01-02
+312,SQL25-QS,SQL Server 2025: Query Store,CP,DB,2,12,2026-01-02
+313,SQL25-TSQL,SQL Server 2025: advanced T-SQL,CP,DB,4,12,2026-01-02
+315,PS-DBA,PowerShell for database administrators,CP,DV,3,10,2012-01-02
+316,SQL-DEV,SQL for developers,CP,DV,3,10,2012-01-02
+318,GIT-INIT,Git: getting started,CP,DV,2,12,2014-01-02
+319,JS-INIT,JavaScript: language and best practices,CP,DV,4,10,2015-01-02
+321,API-REST,Designing and consuming REST APIs,CP,DV,3,10,2016-01-02
+322,GIT-AV,Advanced Git,CP,DV,1,12,2016-01-02
+323,TDD-INIT,Test-driven development,CP,DV,2,12,2016-01-02
+324,CLEAN-CODE,Clean code and code review,CP,DV,2,12,2017-01-02
+325,PY-DATA,Python for data analysis,CP,DV,3,10,2017-01-02
+327,API-GQL,GraphQL: designing and querying an API,CP,DV,2,12,2019-01-02
+328,PY-AV,Advanced Python,CP,DV,3,10,2019-01-02
+329,TS-INIT,TypeScript: typing your JavaScript code,CP,DV,3,10,2019-01-02
+330,CI-GHA,Continuous integration with GitHub Actions,CP,DV,2,12,2020-01-02
+331,PY-TEST,Automated testing in Python with pytest,CP,DV,2,12,2020-01-02
+332,PY-INIT2,Python: introduction (version 3.10 and later),CP,DV,4,10,2021-01-02
+333,GO-INIT,Go: introduction,CP,DV,4,10,2022-01-02
+334,CS-NET8,C# 12 and .NET 8: application development,CP,DV,5,10,2023-01-02
+335,GP-FOND,Project management fundamentals,CP,GP,3,8,2011-01-02
+337,GP-RISQUES,Project risk management,CP,GP,2,10,2012-01-02
+338,GP-BUDGET,Project budgeting and financial control,CP,GP,2,10,2013-01-02
+340,GP-CADRAGE,Scoping a project,CP,GP,2,10,2014-01-02
+341,GP-KANBAN,Kanban: visualizing and smoothing the flow of work,CP,GP,2,10,2015-01-02
+342,GP-PO,Product Owner: defining and prioritizing the product,CP,GP,2,10,2016-01-02
+343,GP-SM,Scrum Master: facilitating and coaching,CP,GP,2,10,2016-01-02
+344,GP-DESIGN,Design thinking,CP,GP,2,10,2017-01-02
+345,GP-PORTF,Project portfolio management,CP,GP,2,10,2017-01-02
+346,GP-RETRO,Running a retrospective,CP,GP,1,10,2018-01-02
+347,GP-SAFE,Scaled agile: overview of the approaches,CP,GP,2,10,2018-01-02
+348,SE-AGILE,Scaled agile: field experience,SE,GP,1,20,2019-01-02
+349,GP-OKR,OKRs: setting ambitious goals,CP,GP,1,10,2020-01-02
+350,GP-SCRUM2,Scrum: implementation following the 2020 guide,CP,GP,2,10,2020-01-02
+352,IA-MLOPS,MLOps: putting a model into production,CP,IA,3,10,2022-01-02
+353,IA-AZOAI,Azure OpenAI: deploying and securing,CP,IA,2,12,2023-01-02
+354,IA-DEV,Generative AI for developers,CP,IA,3,10,2023-01-02
+355,IA-GEN,Generative AI: fundamentals and business uses,CP,IA,2,12,2023-01-02
+356,IA-PROMPT,Prompt engineering,CP,IA,1,12,2023-01-02
+357,SE-IA,Generative AI and data: the current state,SE,IA,1,20,2023-01-02
+358,IA-GHCP,GitHub Copilot: programming with an assistant,CP,IA,1,12,2024-01-02
+359,IA-M365,Microsoft 365 Copilot: saving time at the office,CP,IA,1,12,2024-01-02
+360,IA-RESP,Responsible AI and compliance,CP,IA,1,12,2024-01-02
+361,IA-AGENT,AI agents and tools,CP,IA,2,12,2025-01-02
+362,IA-RAG,RAG: querying your documents with a language model,CP,IA,3,10,2025-01-02
+363,IA-VEC,Vector search in a database,CP,IA,2,12,2025-01-02
+364,MG-EQUIPE,Team management,CP,MG,3,8,2011-01-02
+366,MG-PREMIER,First-time manager,CP,MG,3,8,2012-01-02
+367,MG-CHANGE,Change management,CP,MG,2,10,2013-01-02
+368,MG-DELEG,Delegating effectively,CP,MG,2,10,2014-01-02
+369,MG-LEAD,Leadership and the manager's stance,CP,MG,3,8,2014-01-02
+370,MG-MOTIV,Motivating and retaining employees,CP,MG,2,10,2015-01-02
+371,MG-RECRUT,Running a recruitment,CP,MG,2,10,2016-01-02
+372,MG-TRANSV,Cross-functional management,CP,MG,2,10,2016-01-02
+373,MG-STRESS,Preventing stress and psychosocial risks in the team,CP,MG,2,10,2017-01-02
+374,MG-COACH,Coaching and feedback for managers,CP,MG,2,10,2018-01-02
+375,MG-ENTRET2,Follow-up meetings and continuous feedback,CP,MG,1,10,2019-01-02
+376,MG-GENER,Managing several generations,CP,MG,1,10,2019-01-02
+377,MG-DISTANT,Managing a remote team,CP,MG,2,10,2020-01-02
+378,MG-HYBRID,Hybrid management,CP,MG,2,10,2022-01-02
+379,SE-HYB,Hybrid work: organization and field experience,SE,MG,1,20,2022-01-02
+380,SE-MGIA,Managing in the age of AI,SE,MG,1,20,2025-01-02
+382,SEC-AUDIT,Database auditing and compliance,CP,SC,2,12,2014-01-02
+383,SEC-CHIF,Encryption and key management,CP,SC,2,12,2016-01-02
+386,SEC-OWASP,Web application security: OWASP,CP,SC,2,12,2017-01-02
+387,SEC-RGPD,GDPR for data teams,CP,SC,2,12,2018-01-02
+388,SEC-AZ,Security on Azure,CP,SC,3,10,2019-01-02
+390,SEC-PG,PostgreSQL: security,CP,SC,2,12,2020-01-02
+391,SEC-SENSI,Cybersecurity awareness,CP,SC,1,12,2021-01-02
+392,SE-CYBER,Cybersecurity and data: current threats,SE,SC,1,20,2022-01-02
+393,SQL22-SEC,SQL Server 2022: security,CP,SC,3,10,2022-01-02
+394,SQL25-SEC,SQL Server 2025: security,CP,SC,3,10,2026-01-02
+395,SM001,"PostgreSQL 17: query tuning, for Radio Charente",SM,DB,3,12,2025-02-06
+405,SM011,"Dimensional modeling of a data warehouse, for Laiterie Gramat SAS",SM,BI,3,12,2024-12-07
+412,SM018,"Automated testing in Python with pytest, for Télécom Schielly SAS",SM,DV,2,12,2025-12-26
+421,SM027,"dbt: transforming data in the warehouse, for Buchholtzer & Le Lohe SAS",SM,BI,2,12,2024-08-23
+431,SM037,"Oracle 19c: administration, for Soins Grisons SA",SM,DB,5,12,2023-05-31
+433,SM039,"Microsoft 365 Copilot: saving time at the office, for Groupe Mobilité Mochez",SM,IA,1,12,2025-06-14
+437,SM043,"SQL Server 2022: security, for Protection Ait Saidi SARL",SM,SC,3,12,2025-07-05
+440,SM046,"Microsoft 365 Copilot: saving time at the office, for Porte-Laborde Travaux Publics SAS",SM,IA,1,12,2026-02-25
+443,SM049,"Python: introduction (version 3.10 and later), for Buchholtzer & Le Lohe SAS",SM,DV,4,12,2026-01-09
+457,SM063,"TypeScript: typing your JavaScript code, for Magasins Oise SA",SM,DV,3,12,2024-01-05
+460,SM066,"Migrating to SQL Server 2022, for Radiologie Cévennes SARL",SM,DB,3,12,2026-06-01
+461,SM067,"Microsoft Fabric: data warehouse, for Foncière Murgale SAS",SM,BI,2,12,2025-05-12
+468,SM074,"JavaScript: language and best practices, for Bedikian & Theiler",SM,DV,4,12,2025-12-17
+472,SM078,"AI agents and tools, for Affrètement Dassaud",SM,IA,2,12,2026-01-29
+482,SM088,"PostgreSQL 12: replication and high availability, for Faussat Commerce EURL",SM,DB,3,12,2025-01-07
+488,SM094,"PostgreSQL 14: administration, for Mobile Annee SAS",SM,DB,4,12,2024-12-21
+492,SM098,"SQL Server 2022: security, for Affrètement Dassaud",SM,SC,3,12,2024-07-13
+493,SM099,"Microsoft Fabric: Data Factory, for Wagner & Schmitz SE",SM,BI,2,12,2024-12-13
+497,SM103,"Power Query: prepare and transform data, for Mimy Évasion EURL",SM,BI,2,12,2025-10-12
+499,SM105,"Databricks: the lakehouse platform, for Ortega Génie Civil SARL",SM,BI,3,12,2024-12-04
+501,SM107,"PostgreSQL 12: query tuning, for Buchholtzer & Le Lohe SAS",SM,DB,3,12,2024-12-14
+502,SM108,"Power BI: data modeling, for Costruzioni D'Agostino S.p.A.",SM,BI,3,12,2026-01-31
+503,SM109,"Automated testing in Python with pytest, for Hôtels Khelafi SA",SM,DV,2,12,2023-10-15
+505,SM111,"SQL Server on an Azure virtual machine, for Éditions Otzenberger EURL",SM,CL,2,12,2025-04-15
+511,SM117,"Azure: administration, for Conseil Palard SARL",SM,CL,4,12,2023-11-28
+514,SM120,"SQL Server 2022: performance troubleshooting, for Groupe Hein & Pommier",SM,DB,3,12,2025-10-23
